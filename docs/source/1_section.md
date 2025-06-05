@@ -24,8 +24,8 @@ Station ALOHA by successive mooring turnarounds. These observations will be
 used to investigate air-sea interaction processes related to climate
 variability.
 
-The original mooring system is described in the mooring deployment/recovery
-cruise reports {cite}`Plueddemann2006, Whelan2007, Whelan2008,Whelan2008,Whelan2010,Santiago-Mandujano2019,Hasbrouck2019,Santiago-Mandujano2021,Santiago-Mandujano2022`.
+The original mooring system is described in the mooring deployment and recovery
+cruise reports {cite}`Plueddemann2006, Whelan2007, Whelan2008,Whelan2010,Santiago-Mandujano2024a,Santiago-Mandujano2024b`.
 Briefly, a Surlyn foam surface buoy is equipped with meteorological
 instrumentation, including two complete Air-Sea Interaction Meteorological
 (ASIMET) systems, measuring air and sea surface temperatures, relative humidity,
@@ -36,7 +36,7 @@ air-sea fluxes of heat, freshwater, and momentum. Each ASIMET system also
 transmits hourly averages of the surface meteorological variables via the Argos
 satellite system. The mooring line is instrumented to collect time series of
 upper ocean temperatures, velocities, and salinities coincident with the
-surface forcing record. This mooring includes conductivity, salinity and
+surface forcing record. This mooring includes conductivity, salinity, and
 temperature recorders, two Vector Measuring Current Meters (VMCMs), and two
 Acoustic Doppler current profilers (ADCPs). See the WHOTS-19 mooring diagram in
 the {numref}`diagram`.
@@ -67,18 +67,17 @@ deployment (June 2012) to measure near-bottom temperature and salinity.
 WHOTS-19 mooring design
 ```
 
-The WHOTS-19 mooring was deployed on
-June 17, 2023
+The WHOTS-19 mooring was deployed on June 17, 2023
 ([WHOTS-19 cruise](http://www.soest.hawaii.edu/whots/wh19_dep.html))
 and was recovered on June 06, 2024
 ([WHOTS-20 cruise](http://www.soest.hawaii.edu/whots/wh20_dep.html)).
 The cruises were aboard the R/V Oscar Elton Settle. The WHOTS-20 mooring was
 deployed on June 02, 2024, during the
-[WHOTS-20 cruise](http://www.soest.hawaii.edu/whots/wh20_dep.html) and was
-recovered on tember Se, 2025.
+[WHOTS-20 cruise](http://www.soest.hawaii.edu/whots/wh20_dep.html)
+and is scheduled for recovery in August 2025.
 
 This report documents and describes the oceanographic observations made on the
-WHOTS-19 mooring for nearly one year and ten months and from shipboard
+WHOTS-19 mooring for nearly one year and from shipboard
 measurements during the two cruises when the mooring was deployed and
 recovered. Sections
 {ref}`II</2_section.md#description-of-the-WHOTS-19-mooring-cruises>` and
