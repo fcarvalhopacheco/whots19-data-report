@@ -1,0 +1,101 @@
+ps0
+  Instrument S/N:  13917
+       Frequency:  614400 HZ
+   Configuration:  4 BEAM, JANUS
+     Match Layer:  10
+      Beam Angle:  20 DEGREES
+    Beam Pattern:  CONVEX
+     Orientation:  UP
+       Sensor(s):  HEADING  TILT 1  TILT 2  TEMPERATURE
+Temp Sens Offset:  -0.03 degC
+
+    CPU Firmware:  50.40 [0]
+   Boot Code Ver:  Required:  1.16   Actual:  1.16
+    DEMOD #1 Ver:  ad48, Type:  1f
+    DEMOD #2 Ver:  ad48, Type:  1f
+    PWRTIMG  Ver:  85d3, Type:   6
+
+Board Serial-Number Data:
+   A7  00 00 06 07 BD C0  09 PIO727-3000-00G
+   D3  00 00 06 07 CC 88  09 CPU727-2000-00M
+   8A  00 00 05 88 E4 75  09 REC727-1000-03E
+   69  00 00 06 07 C9 BF  09 DSP727-2001-03H
+
+ps3
+Beam Width: 3.7 degrees
+
+Beam  Elevation  Azimuth
+ 1     -70.00     270.00
+ 2     -70.00      90.00
+ 3     -70.00       0.01
+ 4     -70.00     180.00
+
+Beam Directional Matrix (Down):
+  0.3420  0.0000  0.9397  0.2419
+ -0.3420  0.0000  0.9397  0.2419
+  0.0000 -0.3420  0.9397 -0.2419
+  0.0000  0.3420  0.9397 -0.2419
+
+Instrument Transformation Matrix (Down)  Q14:
+  1.4619  -1.4619   0.0000   0.0000       23952  -23952       0       0
+  0.0000   0.0000  -1.4619   1.4619           0       0  -23952   23952
+  0.2661   0.2661   0.2661   0.2661        4359    4359    4359    4359
+  1.0337   1.0337  -1.0337  -1.0337       16936   16936  -16936  -16936
+Beam Angle Corrections Are Loaded.
+
+pa
+PREDEPLOYMENT TESTS
+CPU TESTS:
+  RTC......................................PASS
+  RAM......................................PASS
+  ROM......................................PASS
+RECORDER TESTS:
+  PC Card #0...............................DETECTED
+    Card Detect............................PASS
+    Communication..........................PASS
+    DOS Structure..........................PASS
+    Sector Test (short)....................PASS
+  PC Card #1...............................NOT DETECTED
+DSP TESTS:
+  Timing RAM...............................PASS
+  Demod  RAM...............................PASS
+  Demod  REG...............................PASS
+  FIFOs....................................PASS
+SYSTEM TESTS:
+  XILINX Interrupts... IRQ3 IRQ3 IRQ3......PASS
+  Wide Bandwidth...........................PASS
+  Narrow Bandwidth.........................PASS
+  RSSI Filter..............................PASS
+  Transmit.................................PASS
+SENSOR TESTS:
+  H/W Operation.........................***FAIL***
+
+pc1
+BEAM CONTINUITY TEST
+(Rub Beam 1-4 = PASS)
+
+ac
+ACTIVE FLUXGATE CALIBRATION MATRICES in NVRAM
+Calibration date and time: 5/22/1923 23:59:09
+S:
+ Bx  4.6233e+01  4.5450e+01  2.9114e+02  2.8383e+02
+ By  1.4861e+02  5.1542e+03  5.0860e+03  5.6730e+01
+ Bz  2.1848e+01  2.0786e+01  3.4930e+01  2.7030e+02
+Err  4.7694e+01  4.4911e+01  5.6584e+01  3.3404e+03
+(Coils, tilt matrices, etc. omitted for brevity)
+
+rf
+RF = 31647714,223916032  --- Rec space used/free (bytes)
+rs
+RS = 031,213             --- Rec space used/free (MB)
+
+rb
+RECORDER TESTS: ...PASS
+(running erase)
+rs
+RS = 000,244
+
+rnwho19
+cf11101
+
+cs
