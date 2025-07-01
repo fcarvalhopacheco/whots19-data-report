@@ -1,0 +1,65 @@
+pc1
+
+
+BEAM CONTINUITY TEST
+
+When prompted to do so, vigorously rub the selected
+beam's face.
+
+If a beam does not PASS the test, send any character to
+the ADCP to automatically select the next beam.
+
+
+Rub Beam 1 = PASS
+Rub Beam 2 = PASS
+Rub Beam 3 = PASS
+Rub Beam 4 = PASS
+
+>rr
+Recorder Directory:
+Volume serial number for device #0 is 1633-17f2
+
+  WHT19000 000               0 06-14-23  10:55:44p r  a [    0]
+
+  Bytes used on device #0 = 0
+Volume serial number for device #1 is 3357-0de5
+
+  No files found.
+
+  Bytes used on device #1 = 0
+Total capacity   =  191969280 bytes
+Total bytes used =          0 bytes in 1 files
+Total bytes free =  191969280 bytes
+
+>ck
+[Parameters saved as USER defaults]
+>deploy
+Deployment Commands:
+CF = 11101 --------------- Flow Ctrl (EnsCyc;PngCyc;Binry;Ser;Rec)
+CK ----------------------- Keep Parameters as USER Defaults
+CR # --------------------- Retrieve Parameters (0 = USER, 1 = FACTORY)
+CS ----------------------- Start Deployment
+
+EA = +00000 -------------- Heading Alignment (1/100 deg)
+EB = +00934 -------------- Heading Bias (1/100 deg)
+ED = 01250 --------------- Transducer Depth (0 - 65535 dm)
+ES = 35 ------------------ Salinity (0-40 pp thousand)
+EX = 11111 --------------- Coord Transform (Xform: Type,Tilts,3 Bm,Map)
+EZ = 1111101 ------------- Sensor Source (C,D,H,P,R,S,T)
+
+RE ----------------------- Recorder ErAsE
+RN ----------------------- Set Deployment Name
+
+TE = 00:10:00.00 --------- Time per Ensemble (hrs:min:sec.sec/100)
+TF = 23/06/15,23:59:00 --- Time of First Ping (yr/mon/day,hour:min:sec)
+TP = 00:04.00 ------------ Time per Ping (min:sec.sec/100)
+TS = 23/06/14,23:04:18 --- Time Set (yr/mon/day,hour:min:sec)
+
+WD = 111 100 000 --------- Data Out (Vel,Cor,Amp; PG,St,P0; P1,P2,P3)
+WF = 0176 ---------------- Blank After Transmit (cm)
+Press any key to continue                       WN = 030 ----------------- Number of depth cells (1-128)
+WP = 00040 --------------- Pings per Ensemble (0-16384)
+WS = 0400 ---------------- Depth Cell Size (cm)
+WV = 175 ----------------- Mode 1 Ambiguity Vel (cm/s radial)
+
+>cs
