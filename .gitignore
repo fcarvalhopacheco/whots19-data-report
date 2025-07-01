@@ -1,6 +1,7 @@
 # Byte-compiled / optimized / DLL files
 .README.md.un~
 .DS_Store
+.DS_Store  
 __pycache__/
 *.py[cod]
 *$py.class
@@ -71,7 +72,7 @@ instance/
 .scrapy
 
 # Sphinx documenta
-/_build/*
+docs/_build/*
 
 # PyBuilder
 .pybuilder/
