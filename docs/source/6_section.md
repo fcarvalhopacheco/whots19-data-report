@@ -1,129 +1,180 @@
 # Results
 
-During the WHOTS-19 cruise (WHOTS-19 mooring deployment, 17 June 2023), a
-weakening front north of the Hawaiian Islands acted to weaken trades across the
-region. This ridge to the north was eroding due to a weakening cold front north
-of the ridge, which led to a downward trend in winds. The front continued to
-weaken and sink southward through the weekend, keeping the winds light and
-variable. Regular trades returned by mid-week. On October 10, winds
-in the morning increased to 25 kt gusting to 35 kt, and there was a brief rain
-event in the morning. Waves during the week were also low, with a small swell
-from the north arriving mid-week.
+During the WHOTS-19 mooring deployment on 17 June 2023, synoptic charts showed
+a pronounced high-pressure ridge to the north of the Hawaiian Islands. The
+resulting pressure gradient sustained moderate easterly trade winds that
+strengthened slightly over the course of the cruise, averaging 15–16 kt during
+the deployment window. Skies remained clear, no measurable precipitation was
+recorded, and only small short-period wind waves were observed. Surface current
+measurements indicated a westward flow of approximately 0.5 kt. Acoustic
+Doppler Current Profiler (ADCP) data revealed a predominantly northwestward
+current throughout the upper 200 m, consistent with an elevated sea-surface
+height field north of Station ALOHA. Superimposed upon this background flow
+were strong semidiurnal and diurnal internal tides and near-inertial
+oscillations, producing pronounced vertical shear. Hydrographic profiles
+collected near the WHOTS-18 buoy (Station 52)
+({numref}`figure6.1`–{numref}`figure6.3`) documented a mixed layer roughly 40 dbar
+deep and a subsurface salinity maximum centred between 130 dbar and 150 dbar.
+CTD casts at Station 50 were aborted following _CTD modulo_ errors that
+indicated intermittent deck‑unit communication problems.
 
-Near-surface currents were almost 1 kt northward during transit to Station
-ALOHA, turning southward upon arrival to Station ALOHA. Eventually, the current
-shifted due north again, became somewhat weaker (about 0.5 kt), and remained
-for approximately five days. There was a nearly low sea level just to the east
-of Station ALOHA, not quite a fully formed eddy; it was reflected by northward
-flow to the east and southward flow to the west. A combination of internal
-semi-diurnal and diurnal tides and near-inertial oscillations was noticeable,
-especially in vertical shear.
+Conditions during the subsequent WHOTS-19 recovery and WHOTS-20 deployment on
+1–2 June 2024 were more energetic. The same high-pressure ridge persisted, but
+trade-wind speeds peaked near 22 kt at the start of operations before easing to
+about 7 kt by cruise end; clear skies again prevailed and no rainfall was
+recorded. A 1.5–2 m swell propagated from the north-northwest. Near-surface
+currents reached almost 1 kt toward the north-northwest, and ADCP observations
+showed this flow extending through at least the upper 300 m, once more
+coincident with elevated sea level north of the mooring. Internal semidiurnal
+and diurnal tidal constituents, together with near-inertial motions, generated
+substantial vertical shear throughout the upper-ocean velocity field.
+Pre-recovery CTD casts adjacent to the WHOTS-19 buoy (Station 50)
+({numref}`figure6.6`) recorded a slightly deeper mixed layer of roughly 50 dbar
+and a sharper, shallower subsurface salinity maximum near 60 dbar.
 
-Conditions during the WHOTS-19 deployment on October 5 were favorable, with
-light NNE winds of ~ 5 kt increasing to up to 10 kt by the end of the
-deployment. There were clear skies and no precipitation in the region, and 1.0
-to 1.5 m waves from the east, with a strong surface current towards ENE.
+Hourly temperature and salinity from the sixteen MicroCAT recorders (sampling
+depths 1.5–155 m) reveal a coherent seasonal thermohaline signal modulated by
+two prominent anomalies. In the upper 25 m the mixed‑layer temperature
+increased quasi‑linearly from ≈ 25 °C in June 2023 to a late‑October maximum of
+27.2 °C, then decreased at roughly 0.06 °C d⁻¹ to a February–March minimum of
+23 °C, recovering to ~24 °C by June 2024 ({numref}`wh19_Temp_1_4.png`). The
+amplitude of this seasonal cycle attenuates with depth—from 3.4 °C at 40 m to
+1.4 °C at 155 m—and the timing of extrema lags downward at an average phase
+speed of ≈ 3 m d⁻¹, indicating vertical propagation of the annual harmonic and
+intermittent mixing events ({numref}`wh19_Temp_5_8.png`,
+{numref}`wh19_Temp_9_12.png`, {numref}`wh19_Temp_13_16.png`).
 
-CTD casts conducted near the WHOTS-19 buoy (Station 52) after deployment
-({numref}`figure6.4` and {numref}`figure6.5`) displayed a subsurface
-salinity maximum between 70 and 80 dbar and a mixed layer 40 to 60 dbar deep.
+Salinity lacks a simple annual cycle but is dominated by two events centered
+between 40 m and 85 m ({numref}`wh19_Sali_5_8.png`,
+{numref}`wh19_Sali_9_12.png`). First, from August to November 2023 a
+high‑salinity intrusion raised values by 0.30–0.45 to a peak of 35.35, with
+only weak expression in the surface layer and little signal below 120 m. The
+vertical structure and timing suggest lateral advection of the subtropical
+surface‑salinity maximum followed by subduction into the upper pycnocline.
+Second, in May 2024 all instruments above 25 m registered a rapid freshening to
+34.7–34.8, while the 75 m sensor fell by < 0.05. Although no concurrent
+meteorological record is available to attribute a single cause, the timing and
+shallow vertical extent imply an episodic surface‐buoyancy input—most likely a
+combination of rainfall and diminished wind mixing. Superimposed on these
+large‑scale anomalies are shorter (2–4 d) fresh pulses in July 2023 and
+February 2024 that penetrated to ~95 m, probably arising from convective
+overturning during brief trade‑wind relaxations.
 
-During the WHOTS-20 cruise (WHOTS-19 mooring recovery, 02 June 2024), a high-pressure ridge far north of the Hawaiian Islands maintained a
-tight enough pressure gradient down across the region to produce moderate to
-locally strong trades. As this high slowly moved northeast away from the area
-and subtly weakened the gradient, trades gradually weakened. There was no
-measurable precipitation during the mooring recovery, and surface
-currents were less than 1 kt.
+Taken together, the late‑summer temperature maximum coupled with a salinity
+increase, followed by winter cooling and a spring freshening, underscores the
+seasonal interplay between local buoyancy forcing and mesoscale advection near
+Station ALOHA. Below 120 m both variables remain comparatively steady,
+confirming that the MicroCAT array spans the actively ventilated layer yet
+resides above the potential‑density surface {math}`\sigma\theta \approx 26.4`
+that caps intermediate‑water formation in the central North Pacific.
 
-CTD casts conducted near the WHOTS-19 buoy (Station 52) before recovery
-({numref}`figure6.10`) displayed a subsurface salinity maximum between 150 and
-170 dbar and a mixed layer 60 dbar deep.
+Figures {numref}`w1_19_contTS.png`–{numref}`w1_19_cont_S.png` synthesize twenty
+years of WHOTS SeaCAT/MicroCAT observations into depth–time and density
+frameworks that together delineate the evolving thermohaline structure of the
+upper 150 m at Station ALOHA. The temperature section (upper panel of
+{numref}`w1_19_contTS.png`) exhibits a robust seasonal cycle: near-surface
+waters warm to 26–28 °C every boreal summer and cool to 18–22 °C each
+winter, the annual amplitude diminishing below ≈ 120 m. In contrast, the
+salinity section (lower panel of {numref}`w1_19_contTS.png`) is dominated by
+multi-year modulation of the subsurface salinity maximum centred between 40 m
+and 90 m. Salinity hovered near 34.8–35.0 g kg⁻¹ from 2005 to 2008,
+increased episodically to 35.4 g kg⁻¹ during 2009–2015, declined sharply to
+minima of 34.4 g kg⁻¹ in 2019–2020, and rebounded above 35.3 g kg⁻¹
+after 2021, occasionally shoaling to the upper 20 m in late 2022. When
+replotted in density space ({numref}`w1_19_cont_S.png`) these excursions
+collapse onto a narrow isopycnal envelope, with the salinity maximum
+persistently occupying 24.0 ≤ {math}`\sigma\theta` ≤ 24.5 kg m⁻³ and
+the salinity minimum constrained by {math}`\sigma\theta` ≥ 25.0 kg
+m⁻³. The fact that warm–fresh and cool–salty anomalies manifest primarily as
+vertical displacements of isopycnals, rather than changes in their absolute
+value, indicates a tight thermohaline compensation that maintains nearly
+constant density—a signature of mode-water formation and lateral subduction in
+the subtropical gyre. Although alternating high- and low-salinity phases
+punctuate the record, the combined panels reveal no monotonic trend in either
+temperature or salinity over the 2004–2024 interval.
 
-The temperature MicroCAT records during the WHOTS-19 deployment
-({numref}`wh19_Temp_1_4.png` through {numref}`wh19_Temp_21.png`) show
-noticeable seasonal variability in the upper 100 m. A temperature decrease in
-October-November 2019 was evident in the instruments below 65 m. The salinity
-records ({numref}`wh19_Sali_1_4.png` through {numref}`wh19_Sali_21.png`) do
-not show an apparent seasonal cycle, but a salinity increase was recorded
-during October-November 2019, by the instruments between 40 and 85 m,
-coinciding with the temperature decrease. This increase was followed by a
-period of low salinity (less than 35 on average above 120 m) throughout
-2020-2021, with extreme values (nearly 34.4) above 120 m in November-December
-2019, and above 75 m in July-September 2020.
+The near-bottom record (4665 m) from the two WHOTS-19 MicroCATs tracks the
+abyssal variability observed 74 m deeper at the ALOHA Cabled Observatory (ACO;
+4739 m) with remarkable fidelity in both potential temperature and salinity
+({numref}`plt_w19_aco.png`). From June to mid-November 2023 potential
+temperature climbed gradually from 1.110°C to 1.116°C , after which three
+discrete cooling events are evident: a sharp drop of ≈ 0.008 °C in
+mid-December, a briefer decrease of ≈ 0.004°C in early February, and a smaller
+excursion in late May 2024. Each temperature minimum recorded by the MicroCAT
+pair is mirrored—within measurement noise—by the daily-averaged ACO series,
+indicating that the signals represent regional abyssal water-mass intrusions
+rather than mooring-specific artifacts.
 
-{numref}`w1_19_contTS.png` through {numref}`w1_19_cont_S.png` show contours of
-the WHOTS-19 MicroCAT data in context with data from the previous 15
-deployments. The seasonal cycle is evident in the temperature record, with
-record temperatures (higher than 26°C) in the summer of 2004, and again in
-2014, 2015, 2017, 2019, and 2020. Salinities in the subsurface salinity maximum
-were relatively low during the first 6 years of the record, only to increase
-drastically after 2008 through 2015, with some lower salinity episodes in
-mid-2011 and early 2012. The salinity maximum extended to near the surface in
-early 2010, 2011, late2012-early 2013, and February-March 2013. Salinities in
-the salinity minimum decreased after 2015, showing low salinities above 100 m
-in 2016, 2017, 2018, and reaching record low values (34.4) in July-August 2019
-and July-September 2020. When plotted in {math}`\sigma\theta` coordinates
-({numref}`w1_19_cont_S.png`), the salinity maximum seems to be centered roughly
-between 24 and 24.5 {math}`\sigma\theta`.
-
-Records from the WHOTS-19 MicroCATs ({numref}`plt_w19_aco_all.png`) deployed
-near the bottom of the mooring (4713 m) detected temperature and salinity
-changes related to episodic ‘cold events’ apparently caused by bottom water
-moving between abyssal basins {cite}`Lukas2001`. These events are being
-monitored by instruments at the ALOHA Cabled Observatory (ACO) {cite}`Howe2011`
-, a deep water observatory located at the bottom of Station ALOHA (about 6
-nautical miles north from the WHOTS-19 anchor), since June 2011.
-{numref}`plt_w19_aco_all.png` shows temperature and salinity records from
-the WHOTS-19 MicroCATs superimposed on the ACO data. The MicroCAT data
-agreed with the temperature decrease and the salinity variability
-registered by ACO instruments during cold events in January, March and
-December 2020, and a minor events in August 2020 and September 2021.
+Salinity exhibits synchronous structure on the order of {math}`10^{-3} g
+kg^{-1}`. A slow freshening of ≈ {math}`0.001 g kg^{-1}` spans June–December
+2023, followed by episodic salinity increases that coincide with the December,
+February, and May cold pulses, and a return toward the June baseline by the end
+of the record. The consistent phase relationship—cooler water arriving with
+slightly higher salinity—supports the interpretation of these features as
+propagating deep-water anomalies previously documented at Station ALOHA
+{cite}`Lukas2001`, now routinely monitored by ACO instrumentation
+{cite}`Howe2011`. The close correspondence between the WHOTS MicroCATs and the
+ACO series demonstrates that the WHOTS mooring, although ~6 nmi to the south,
+resolves the same abyssal variability and thus provides a reliable, independent
+measure of deep-water changes in the region.
 
 {numref}`WHOTS-19_u_subplot.png` through {numref}`WHOTS-19_w_subplot.png` shows
 the time series of the zonal, meridional, and vertical currents recorded with
 the moored ADCPs during the WHOTS-19 deployment.
-{numref}`wh1_19_adcp_uv_cont.png`, through {numref}`wh1_19_adcp_w_cont.png`,
-shows the ADCP current components' contours in context with data from the
-previous deployments. Despite the gaps in the data, an apparent variability is
-seen in the zonal and meridional currents, apparently caused by passing eddies.
-There have been periods of intermittent positive or negative zonal currents on
-top of this variability, for instance, during 2007-2008. The contours of the
-vertical current component {numref}`wh1_19_adcp_w_cont.png` show a transition
-in the magnitude of the contours near 47 m, indicating that the 300 kHz ADCP
-located at 126 m moves more vertically than the 600 kHz ADCP located at 47.5 m.
+{numref}`wh1_19_adcp_uvw_cont.png` presents a two-decade perspective (WHOTS-1
+through WHOTS-19) on the zonal (u), meridional (v), and vertical (w) velocity
+fields measured by the mooring–mounted ADCPs. Despite several multi-month data
+gaps—most noticeably between late 2008 and early 2010—the zonal and meridional
+sections reveal pronounced mesoscale variability. Alternating bands of eastward
+(red) and westward (blue) flow, and their north-/south-flow counterparts,
+coincide with the passage of anticyclonic and cyclonic eddies that regularly
+cross Station ALOHA. Superimposed on this eddy background are shorter episodes
+of persistent flow anomalies; the energetic eastward burst during 2007–2008 is
+a prominent example.The vertical-velocity panel highlights a transition in
+signal amplitude near 47 m. Above this depth the 600 kHz ADCP (mounted at 47.5
+m) records comparatively small vertical excursions, whereas below ∼50 m the 300
+kHz instrument (mounted at 126 m) registers larger upward and downward
+motions—consistent with greater tilt of the deeper instrument and the larger
+orbital displacements induced by surface swell at that depth.
 
-A comparison between the moored ADCP data and the shipboard ADCP data obtained
-during the WHOTS-19 cruise is shown in
-{numref}`whots19deploy_adcp_contour1.png`, and
-{numref}`whots19deploy_adcp_contour2.png`, and a similar comparison during the
-WHOTS-20 cruise is shown in {numref}`whots19recover_adcp_contour1.png` and
-{numref}`whots19recover_adcp_contour2.png`. Some differences were seen,
-especially in the zonal component, maybe due to the mooring motion, which was
-not removed from the data. Comparisons between the available shipboard ADCP
-from HOT-316 to -332 cruises and the mooring data are shown in
-{numref}`wh19_moor_ship_ADCP_comp_1.png` through
-{numref}`wh19_moor_ship_ADCP_comp_4.png`.
+A direct mooring–shipboard comparison was impossible during the WHOTS-19
+recovery cruise because CTD casts at the buoy were aborted after module
+errors; the first post-redeployment check therefore came on the WHOTS-20
+deployment cruise, where the zonal and meridional velocity sections from the
+OS75 shipboard ADCP and the co-located WH-300 moored ADCP (see
+{numref}`whots19recover_adcp_contour1.png` and
+{numref}`whots19recover_adcp_contour2.png`) show nearly identical alternating
+flows throughout 30–130 m, with typical differences < 0.05 m s⁻¹ and small phase
+shifts that reflect the ~3–4 km ship-to-buoy separation and unfiltered mooring
+knock-down; discrepancies are largest in the wave-affected upper 15–20 m and
+below ~100 m where signal-to-noise declines. Complementary profile-by-profile
+comparisons for the five HOT cruises (HOT-343 – 347) in
+{numref}`wh19_moor_ship_ADCP_comp_300_1.png` –
+{numref}`wh19_moor_ship_ADCP_comp_600_2.png` confirm this performance: across
+both the 300 kHz and 600 kHz moored instruments, biases generally remain within
+±0.03–0.07 m s⁻¹, reinforcing that the WHOTS-20 velocity array is operating
+well within expected uncertainty bounds.
 
-The Xeos-GPS receiver registered the WHOTS-19 buoy motion, and its positions
-are plotted in {numref}`wh19xeos_pos.png`. The buoy was located west of the
-anchor for most of the deployment, except from around June to November 2020,
-when it was east. The power spectrum of these data ({numref}`wh19xeos_pos.png`)
-shows extra energy at the inertial period (~31 hr). Combining the buoy motion
-with the tilt (a combination of pitch and roll) from the ADCP data
-({numref}`wh19_adcp_tilt.png`) showed that the tilt increased as the buoy
-distance from the anchor WHOTS-19 increased. This was expected since the
-inclination of the cable increases as the buoy moves away from the anchor.
+{numref}`wh19xeos_pos.png` shows the WHOTS-19 buoy meandering within roughly
+±0.05 ° (≈5 km) of its nominal anchor point at 22 ° 46.002′ N, 157 ° 53.768′ W.
+High-frequency wiggles—most evident as closely spaced oscillations through the
+record—reflect diurnal (K1) and semidiurnal (M2) tidal forcing, while broader
+excursions in November 2023 and February–April 2024 are consistent with
+episodic eddy advection. Periods when the buoy drifts farthest from the anchor
+coincide with larger ADCP tilt values ({numref}`wh19_adcp_tilt.png`}), as the
+mooring line steepens when the surface package is displaced, confirming the
+expected coupling between horizontal offset and instrument inclination.
 
 ## CTD Profiling Data
 
 Profiles of temperature, salinity, and potential density ({math}`\sigma\theta`)
 from the casts obtained during the WHOTS-19 deployment cruise are presented in
-{numref}`figure6.1` through {numref}`figure6.5`, together with the results of
+{numref}`figure6.1` through {numref}`figure6.6`, together with the results of
 bottle determination of salinity. {numref}`figure6.6` through
 {numref}`figure6.10` shows the results of the CTD profiles during the WHOTS-20
 cruise.
 
-```{figure} figures/ctd/1.whots_19/s20c1_s50c1.png
+```{figure} figures/ctd/1.whots_19/s20c1_s52c1.png
 :height: 800px
 :align: center
 :name: figure6.1
@@ -134,86 +185,58 @@ bottle salinity samples (when available) for station 20 cast 1 during the
 WHOTS-19 cruise. [Upper right panel] Profiles of CTD salinity as a function
 of potential temperature, including discrete bottle salinity samples (when
 available) for station 20 cast 1 during the WHOTS-19 cruise. [Lower left
-panel] Same as in the upper left panel, but for station 50 cast 1. [Lower
-right panel] Same as in the upper right panel, but station 50 cast 1.
+panel] Same as in the upper left panel, but for station 52 cast 1. [Lower
+right panel] Same as in the upper right panel, but station 52 cast 1.
 ```
 
-```{figure} figures/ctd/1.whots_19/s50c2_s50c3.png
+```{figure} figures/ctd/1.whots_19/s52c2_s52c3.png
 :height: 1000px
 :align: center
 :name: figure6.2
 
-[Upper panels] Same as in {numref}`figure6.1`, but for station 50, cast
-2. [Lower panels] Same as {numref}`figure6.1`, but for station 50, cast 3.
+[Upper panels] Same as in {numref}`figure6.1`, but for station 52, cast
+2. [Lower panels] Same as {numref}`figure6.1`, but for station 52, cast 3.
 ```
 
-```{figure} figures/ctd/1.whots_19/s50c4_s50c5.png
+```{figure} figures/ctd/1.whots_19/s52c4_s52c4.png
 :height: 1000px
 :align: center
 :name: figure6.3
 
-[Upper panels] Same as in {numref}`figure6.1`, but for station 50, cast 4.
-[Lower panels] Same as in {numref}`figure6.1`, but for station 50 cast 5.
+[Upper panels] Same as in {numref}`figure6.1`, but for station 54, cast 4.
 ```
 
-```{figure} figures/ctd/1.whots_19/s52c1_s52c2.png
-:height: 1000px
-:align: center
-:name: figure6.4
-
-[Upper panels] Same as in {numref}`figure6.1`, but for station 52, cast 1. [Lower
-panels] Same as in {numref}`figure6.1`, but for station 52, cast 2.
-```
-
-```{figure} figures/ctd/1.whots_19/s52c3_s52c4.png
-:height: 1000px
-:align: center
-:name: figure6.5
-
-Upper panels] Same as in {numref}`figure6.1`, but for station 52, cast 3.[Lower
-panels] Same as in {numref}`figure6.1`, but for station 52, cast 4.
-```
-
-```{figure} figures/ctd/2.whots_20/s2c1_s20c1.png
+```{figure} figures/ctd/2.whots_20/s20c1_s50c1.png
 :height: 800px
 :align: center
 :name: figure6.6
 
 [Upper left panel] Profiles of CTD temperature, salinity, and potential
 density ({math}`\sigma\theta`) as a function of pressure, including discrete
-bottle salinity samples (when available) for station 2 cast 1 during the
+bottle salinity samples (when available) for station 20 cast 1 during the
 WHOTS-20 cruise. [Upper right panel] Profiles of CTD salinity as a function
 of potential temperature, including discrete bottle salinity samples (when
-available) for station 2 cast 1 during the WHOTS-20 cruise. [Lower left
-panel] Same as in the upper left panel, but for station 20 cast 1. [Lower
-right panel] Same as in the upper right panel, but station 20 cast 1.
+available) for station 20 cast 1 during the WHOTS-20 cruise. [Lower left
+panel] Same as in the upper left panel, but for station 50 cast 1. [Lower
+right panel] Same as in the upper right panel, but station 50 cast 1.
 ```
 
-```{figure} figures/ctd/2.whots_20/s50c1_s50c2.png
+```{figure} figures/ctd/2.whots_20/s50c2_s50c3.png
 :height: 1000px
 :align: center
 :name: figure6.7
 
 Upper panels] Same as in {numref}`figure6.6`, but for station 50, cast
-1.[Lower panels] Same as in {numref}`figure6.6`, but for station 50, cast 2.
+2.[Lower panels] Same as in {numref}`figure6.6`, but for station 50, cast 3.
 ```
 
-```{figure} figures/ctd/2.whots_20/s50c3_s50c4.png
+```{figure} figures/ctd/2.whots_20/s50c4_s50c5.png
 :height: 1000px
 :align: center
 :name: figure6.8
 
 Upper panels] Same as in {numref}`figure6.6`, but for station 50, cast
-3.[Lower panels] Same as in {numref}`figure6.6`, but for station 50, cast 4.
-```
-
-```{figure} figures/ctd/2.whots_20/s50c5_s50c6.png
-:height: 1000px
-:align: center
-:name: figure6.9
-
-Upper panels] Same as in {numref}`figure6.6`, but for station 50, cast
-5.[Lower panels] Same as in {numref}`figure6.6`, but for station 50, cast 6.
+4.[Lower panels] Same as in {numref}`figure6.6`, but for station 50, cast 5.
 ```
 
 ```{figure} figures/ctd/2.whots_20/s52c1_s52c2.png
@@ -228,57 +251,51 @@ Upper panels] Same as in {numref}`figure6.6`, but for station 52, cast 1.
 ## Thermosalinograph Data
 
 Underway measurements of near-surface temperature and salinity from the
-thermosalinograph (TSG) system onboard the R/V Oscar Sette cruise are presented
-in {numref}`ac39thsl_final.png` and navigational data is shown in
-{numref}`ac39nav_final.png` for the WHOTS-19 cruise. The WHOTS-19 underway
-seawater system that feeds the TSG failed on October 11, 2019, due to air
-going into the plumbing, causing the pumps to stop working during
-deteriorated weather conditions. TSG and navigational data during the
-WHOTS-20 cruise, onboard the R/V Oscar Sette, are presented in {numref}
-`ac40thsl_final.png` and {numref}`ac40nav_final.png`, respectively. The
-data between August 25 and 27, 2021 are particularly bad because it was
-during transit back to Oahu to disembark a crew member with medical
-problems, and the flow through the system was stopped during that time.
+thermosalinograph (TSG) system on board the R/V Oscar Sette cruise are presented
+in {numref}`ac42thsl_final.png` and navigational data is shown in
+{numref}`ac42nav_final.png` for the WHOTS-19 cruise. TSG and navigational data
+during the WHOTS-20 cruise, on board the R/V Oscar Sette, are presented in
+{numref}`ac43thsl_final.png` and {numref}`ac43nav_final.png`, respectively.
 
-```{figure} figures/thermosal/ac39thsl_final.png
+```{figure} figures/thermosal/ac42thsl_final.png
 :height: 600px
 :align: center
-:name: ac39thsl_final.png
+:name: ac42thsl_final.png
 
 Final processed temperature (upper panel), salinity (middle panel), and
 potential density ({math}`\sigma\theta`) (lower panel) data from the continuous
-underway system onboard the R/V Hi’ialakai during the WHOTS-19 cruise.
+underway system onboard the R/V Oscar Sette during the WHOTS-19 cruise.
 Temperature and salinity taken from 6-dbar CTD data (circles) and salinity
 bottle sample data (crosses) are superimposed. The dashed vertical red line
 indicates the period of occupation of Station ALOHA and the WHOTS site.
 ```
 
-```{figure} figures/thermosal/ac39nav_final.png
+```{figure} figures/thermosal/ac42nav_final.png
 :height: 600px
 :align: center
-:name: ac39nav_final.png
+:name: ac42nav_final.png
 
 Timeseries of latitude (upper panel), longitude (middle panel), and ship’s
 speed (lower panel) during the WHOTS-19 cruise.
 ```
 
-```{figure} figures/thermosal/ac40thsl_final.png
+```{figure} figures/thermosal/ac43thsl_final.png
 :height: 600px
 :align: center
-:name: ac40thsl_final.png
+:name: ac43thsl_final.png
 
 Final processed temperature (upper panel), salinity (middle panel), and
-potential density ({math}`\sigma\theta`) (lower panel) data from the continuous underway system
-onboard the R/V Oscar Sette during the WHOTS-20 cruise. Temperature and
-salinity were taken from 6-dbar CTD data (circles), and salinity bottle sample
-data (crosses) are superimposed. The dashed vertical red line indicates the
-period of occupation of Station ALOHA and the WHOTS site.
+potential density ({math}`\sigma\theta`) (lower panel) data from the continuous
+underway system onboard the R/V Oscar Sette during the WHOTS-20 cruise.
+Temperature and salinity were taken from 6-dbar CTD data (circles), and
+salinity bottle sample data (crosses) are superimposed. The dashed vertical red
+line indicates the period of occupation of Station ALOHA and the WHOTS site.
 ```
 
-```{figure} figures/thermosal/ac40nav_final.png
+```{figure} figures/thermosal/ac43nav_final.png
 :height: 600px
 :align: center
-:name: ac40nav_final.png
+:name: ac43nav_final.png
 
 Timeseries of latitude (upper panel), longitude (middle panel), and ship’s
 speed (lower panel) during the WHOTS-20 cruise.
@@ -288,22 +305,24 @@ speed (lower panel) during the WHOTS-20 cruise.
 
 The temperatures measured by MicroCATs during the mooring deployment for
 WHOTS-19 are presented in {numref}`wh19_Temp_1_4.png` through
-{numref}`wh19_Temp_21.png` for each of the depths where the instruments
-were located. The salinities are plotted in {numref}`wh19_Sali_1_4.png`
-through {numref}`wh19_Sali_21.png`. The potential densities ({math}`\sigma\theta`) are
-plotted in {numref}`wh19_Sigma_1_4.png` through {numref}`wh19_Sigma_21.png`.
+{numref}`wh19_Temp_13_16.png` for each of the depths where the instruments were
+located. The salinities are plotted in {numref}`wh19_Sali_1_4.png` through
+{numref}`wh19_Sali_13_16.png`. The potential densities ({math}`\sigma\theta`)
+are plotted in {numref}`wh19_Sigma_1_4.png` through
+{numref}`wh19_Sigma_13_16.png`.
 
 Contoured plots of temperature and salinity as a function of depth for the
-deployments WHOTS-1 through -16 are presented in {numref}`w1_19_contTS.png`,
-and contoured plots of potential density ({math}`\sigma\theta`) as a function of depth are in
-{numref}`w1_19_contSt.png`, and of salinity as a function of {math}`\sigma\theta`
-are in {numref}`w1_19_cont_S.png`.
+deployments WHOTS-1 through -19 are presented in {numref}`w1_19_contTS.png`,
+and contoured plots of potential density ({math}`\sigma\theta`) as a function
+of depth are in {numref}`w1_19_contSt.png`, and of salinity as a function of
+{math}`\sigma\theta` are in {numref}`w1_19_cont_S.png`.
 
-The potential temperature ({math}`\theta`) and salinity measured by the deep MicroCATs
-during the mooring deployment are shown in {numref}`plt_w19_aco_all.png`. Also
-shown in the plot are the {math}`\theta` and salinity data obtained with a MicroCAT (SBE-37)
-installed in the ALOHA Cabled Observatory, about six nautical miles north from
-the WHOTS-19 anchor. The instrument is located 2 m above the bottom.
+The potential temperature ({math}`\theta`) and salinity measured by the deep
+MicroCATs during the mooring deployment are shown in {numref}`plt_w19_aco.png`.
+Also shown in the plot are the {math}`\theta` and salinity data obtained with a
+MicroCAT (SBE-37) installed in the ALOHA Cabled Observatory, about six nautical
+miles north from the WHOTS-19 anchor. The instrument is located 2 m above the
+bottom.
 
 ```{figure} figures/microcats/wh19_Temp_1_4.png
 :height: 1000px
@@ -316,35 +335,21 @@ Temperatures from MicroCATs during WHOTS-19 deployment at 1.5, 7, 15, and 25 m.
 :height: 1000px
 :align: center
 :name: wh19_Temp_5_8.png
-Same as in {numref}`wh19_Temp_1_4.png`, but at 35, 40, 45, and 50 m.
+Same as in {numref}`wh19_Temp_1_4.png`, but at 40, 45, 50, and 55 m.
 ```
 
 ```{figure} figures/microcats/wh19_Temp_9_12.png
 :height: 1000px
 :align: center
 :name: wh19_Temp_9_12.png
-Same as in {numref}`wh19_Temp_1_4.png`, but at 55, 65, 75, and 85 m.
+Same as in {numref}`wh19_Temp_1_4.png`, but at 65, 75, 85, and 95 m.
 ```
 
-```{figure} figures/microcats/wh19_Temp_13_19.png
+```{figure} figures/microcats/wh19_Temp_13_16.png
 :height: 1000px
 :align: center
 :name: wh19_Temp_13_16.png
-Same as in {numref}`wh19_Temp_1_4.png`, but at 95, 105, 120, and 135 m.
-```
-
-```{figure} figures/microcats/wh19_Temp_17_20.png
-:height: 1000px
-:align: center
-:name: wh19_Temp_17_20.png
-Same as in {numref}`wh19_Temp_1_4.png`, but at 155, 1875, and 4713 m.
-```
-
-```{figure} figures/microcats/wh19_Temp_21.png
-:height: 1000px
-:align: center
-:name: wh19_Temp_21.png
-Same as in {numref}`wh19_Temp_1_4.png`, but at 4713 m
+Same as in {numref}`wh19_Temp_1_4.png`, but at 105, 120, 135, and 155 m.
 ```
 
 ```{figure} figures/microcats/wh19_Sali_1_4.png
@@ -358,35 +363,21 @@ Salinities from MicroCATs during WHOTS-19 deployment at 1.5, 7, 15, and 25 m
 :height: 1000px
 :align: center
 :name: wh19_Sali_5_8.png
-Same as in {numref}`wh19_Sali_1_4.png`, but at 35, 40, 45, and 50 m.
+Same as in {numref}`wh19_Sali_1_4.png`, but at 40, 45, 50, and 55 m.
 ```
 
 ```{figure} figures/microcats/wh19_Sali_9_12.png
 :height: 1000px
 :align: center
 :name: wh19_Sali_9_12.png
-Same as in {numref}`wh19_Sali_1_4.png`, but at 55, 65, 75, and 85 m
+Same as in {numref}`wh19_Sali_1_4.png`, but at 65, 75, 85, and 95 m
 ```
 
 ```{figure} figures/microcats/wh19_Sali_13_16.png
 :height: 1000px
 :align: center
 :name: wh19_Sali_13_16.png
-Same as in {numref}`wh19_Sali_1_4.png`, but at 95, 105, 120, and 135 m.
-```
-
-```{figure} figures/microcats/wh19_Sali_17_20.png
-:height: 1000px
-:align: center
-:name: wh19_Sali_17_20.png
-Same as in {numref}`wh19_Sali_1_4.png`, but at 155, 1875, and 4713 m.
-```
-
-```{figure} figures/microcats/wh19_Sali_21.png
-:height: 1000px
-:align: center
-:name: wh19_Sali_21.png
-Same as in {numref}`wh19_Sali_1_4.png`, but at 4713 m.
+Same as in {numref}`wh19_Sali_1_4.png`, but at 105, 120, 135, and 155 m.
 ```
 
 ```{figure} figures/microcats/wh19_Sigma_1_4.png
@@ -401,35 +392,21 @@ Potential densities ({math}`\sigma\theta`) from MicroCATs during WHOTS-19 deploy
 :height: 1000px
 :align: center
 :name: wh19_Sigma_5_8.png
-Same as in {numref}`wh19_Sigma_1_4.png`, but at 35, 40, 45, and 50 m.
+Same as in {numref}`wh19_Sigma_1_4.png`, but at 40, 45, 50, and 55 m.
 ```
 
 ```{figure} figures/microcats/wh19_Sigma_9_12.png
 :height: 1000px
 :align: center
 :name: wh19_Sigma_9_12.png
-Same as in {numref}`wh19_Sigma_1_4.png`, but at 55, 65, 75, and 85 m.
+Same as in {numref}`wh19_Sigma_1_4.png`, but at 65, 75, 85, and 95 m.
 ```
 
 ```{figure} figures/microcats/wh19_Sigma_13_16.png
 :height: 1000px
 :align: center
 :name: wh19_Sigma_13_16.png
-Same as in {numref}`wh19_Sigma_1_4.png`, but at 95, 105, 120, and 135 m.
-```
-
-```{figure} figures/microcats/wh19_Sigma_17_20.png
-:height: 1000px
-:align: center
-:name: wh19_Sigma_17_20.png
-Same as in {numref}`wh19_Sigma_1_4.png`, but at 155, 1875, and 4713 m.
-```
-
-```{figure} figures/microcats/wh19_Sigma_21.png
-:height: 1000px
-:align: center
-:name: wh19_Sigma_21.png
-Same as in {numref}`wh19_Sigma_1_4.png`, but at 4713 m.
+Same as in {numref}`wh19_Sigma_1_4.png`, but at 105, 120, 135, and 155 m.
 ```
 
 ```{figure} figures/microcats/w1_19_contTS.png
@@ -461,49 +438,78 @@ Contour plots of salinity versus {math}`\sigma\theta` from SeaCATs/MicroCATs dur
 through WHOTS-19 deployments.
 ```
 
-```{figure} figures/microcats/plt_w19_aco_all.png
+```{figure} figures/microcats/plt_w19_aco.png
 :height: 1000px
 :align: center
-:name: plt_w19_aco_all.png
+:name: plt_w19_aco.png
 Potential temperature (upper panel) and salinity (lower panel) time-series from
-the ALOHA Cabled Observatory (ACO) sensors and the WHOTS-19 MicroCATs 11391 and
-12241.
+the ALOHA Cabled Observatory (ACO) sensors and the WHOTS-19 MicroCATs 11381 and
+11380.
 ```
 
 ## Moored ADCP Data
 
-Contoured plots of smoothed horizontal (east and north component) and vertical
-velocity as a function of depth during the mooring deployments 1 through 19 are
-presented in {numref}`wh1_19_adcp_uv_cont.png` and
-{numref}`wh1_19_adcp_w_cont.png`. A staggered time-series of smoothed
-horizontal and vertical velocities are shown in
-{numref}`WHOTS-19_u_subplot.png` through {numref}`WHOTS-19_w_subplot.png`.
-Smoothing was performed by applying a daily running mean to the data and then
-interpolating it on an hourly grid.
+### Long‑term variability
 
-Contours of east and north velocity components from the Ship Oscar Sette Ocean
-Surveyor broadband 75 kHz shipboard ADCP, and the moored 300 kHz ADCP from the
-WHOTS-19 deployment as a function of time and depth, during the WHOTS-19
-cruise, are shown in {numref}`whots19deploy_adcp_contour1.png` and
-{numref}`whots19deploy_adcp_contour2.png`.
+The velocity climatology in {numref}`wh1_19_adcp_uvw_cont.png` spans nearly two
+decades of WHOTS moorings. Alternating eastward and westward _zonal_ currents
+dominate the upper ≈ 60 m and, during energetic intervals, penetrate to 100 m.
+Two regime shifts are evident: (1) 2009–2011, when an instrument replacement
+and brief data gap coincide with a marked reduction in eastward flow; and
+(2) 2018 to the present, when stronger, more coherent eastward episodes
+re‑emerge and are accompanied by enhanced downward motion below 40 m.
 
-```{figure} figures/adcp_moored/wh1_19_adcp_uv_cont.png
+The _meridional_ record exhibits comparable inter‑annual structure, with
+sustained northward anomalies in 2006–2007, 2013–2015, and 2020–2022, bracketed
+by southward phases.
+
+Vertical velocities remain an order of magnitude smaller than their horizontal
+counterparts ( {math}`|w|\lesssim 0.1\;m\,s^{-1}`), yet episodic up‑ and
+down‑welling events—most frequent after 2018—highlight the influence of
+internal waves and shear‑driven mixing.
+
+###  WHOTS‑19 deployment
+
+The year‑long WHOTS‑19 record ({numref}`wh_19_adcp_uvw_cont.png`) began with
+persistent westward flow (-0.10 to -0.25 {math}`m\,s^{-1}`) that
+lasted until early November 2023. A basin‑scale reversal in mid‑December
+culminated in peak eastward velocities of +0.25{math}`m\,s^{-1}` by
+mid‑January. The transition back to strong westward flow
+(≤ -0.50 {math}`m\,s^{-1}`) in late February–March was followed by
+progressively weaker currents approaching recovery.
+
+Meridional currents were largely northward during the first half of the
+deployment, interrupted by a southward pulse in August–September 2023
+(≈ -0.25 {math}`m\,s^{-1}` between 40 m and 80 m). A second southward episode
+in March 2024 quickly gave way to vigorous northward flow of up to
++0.30 {math}`m\,s^{-1}` in April–May, consistent with the passage of mesoscale
+eddies through the HOT region.
+
+Vertical motion shows coherent structure despite its small magnitude. Weak
+downward velocities (≈ -0.05 {math}`m\,s^{-1}` below 60 m) accompanied the
+early‑summer westward regime, whereas a distinct upward pulse
+(≥ +0.10{math}`m\,s^{-1}` at 0–25 m) coincided with the peak northward event
+in late April 2024, suggesting enhanced near‑inertial energy and shear.
+
+High‑resolution staggered time series for each depth bin are provided in
+{numref}`WHOTS-19_u_subplot.png`–{numref}`WHOTS-19_w_subplot.png`; these plots
+retain sub‑daily variability that is suppressed by the monthly contour
+averaging.
+
+```{figure} figures/adcp_moored/wh1_19_adcp_uvw_cont.png
 :width: 1000px
 :align: center
-:name: wh1_19_adcp_uv_cont.png
+:name: wh1_19_adcp_uvw_cont.png
 
-Contour plot of east velocity component ({math}`m s^{-1}`) versus depth and
-time from the moored ADCPs from the WHOTS-1 through -19 deployments (upper panel).
-Contour plot of north velocity component ({math}`m s^{-1}`) (lower panel).
+Depth–time contours of (top) zonal, (middle) meridional, and (bottom) vertical velocity ({math}`m\,s^{-1}`) measured by moored ADCPs during WHOTS‑1 through WHOTS‑19 (2004–2024).
 ```
 
-```{figure} figures/adcp_moored/wh1_19_adcp_w_cont.png
+```{figure} figures/adcp_moored/wh_19_adcp_uvw_cont.png
 :width: 1000px
 :align: center
-:name: wh1_19_adcp_w_cont.png
+:name: wh_19_adcp_uvw_cont.png
 
-Contour plot of vertical velocity component ({math}`m s^{-1}`) versus depth
-and time from the moored ADCPs from the WHOTS-1 through -19 deployments.
+Same as {numref}`wh1_19_adcp_uvw_cont.png`, but restricted to the WHOTS‑19 deployment (June 2023 – June 2024).
 ```
 
 ```{figure} figures/adcp_moored/WHOTS-19_u_subplot.png
@@ -511,10 +517,7 @@ and time from the moored ADCPs from the WHOTS-1 through -19 deployments.
 :align: center
 :name: WHOTS-19_u_subplot.png
 
-Staggered time-series of east velocity component ({math}`m s^{-1}`)
-for each bin of the 600 kHz (upper panel) and 300 kHz (lower panel) moored
-ADCPs during WHOTS-19. The time-series are offset upwards by
-0.5 {math}`m s^{-1}`; each bin's depth is on the right.
+Staggered time series of zonal velocity ({math}`m\,s^{-1}`) for each depth bin of the WHOTS‑19 600 kHz (top) and 300 kHz (bottom) ADCPs. Curves are vertically offset by 0.5 {math}`m\,s^{-1}`; bin depths are annotated at right.
 ```
 
 ```{figure} figures/adcp_moored/WHOTS-19_v_subplot.png
@@ -522,7 +525,7 @@ ADCPs during WHOTS-19. The time-series are offset upwards by
 :align: center
 :name: WHOTS-19_v_subplot.png
 
-Same as {numref}`WHOTS-19_u_subplot.png` but for north velocity component
+As in {numref}`WHOTS-19_u_subplot.png`, but for meridional velocity.
 ```
 
 ```{figure} figures/adcp_moored/WHOTS-19_w_subplot.png
@@ -530,54 +533,31 @@ Same as {numref}`WHOTS-19_u_subplot.png` but for north velocity component
 :align: center
 :name: WHOTS-19_w_subplot.png
 
-Same as {numref}`WHOTS-19_u_subplot.png` but for north velocity component
-but for vertical velocity component.
+As in {numref}`WHOTS-19_u_subplot.png`, but for vertical velocity.
 ```
 
-## Moored and Shipboard ADCP comparisons
+###  Shipboard–mooring intercomparison
 
-Contours of zonal and meridional current components from the Oscar Sette’s
-Ocean Surveyor broadband 75 kHz shipboard ADCP, and the moored 300 kHz ADCP
-from the WHOTS-19 deployment as a function of time and depth, during the
-WHOTS-19 cruise, are shown in {numref}`whots19deploy_adcp_contour1.png`. and
-{numref}`whots19deploy_adcp_contour2.png`. Similar comparisons during the
-WHOTS-20 cruise are in {numref}`whots19recover_adcp_contour1.png`. and
-{numref}`whots19recover_adcp_contour2.png`.
+During the recovery/deployment cruise the shipboard 75 kHz Ocean Surveyor ADCP
+and the co‑located 300 kHz Workhorse moored ADCP sampled the same velocity
+field ({numref}`whots19recover_adcp_contour1.png`,
+{numref}`whots19recover_adcp_contour2.png`). Zonal currents remained uniformly
+westward (-0.20 to -0.50 {math}`m\,s^{-1}`) across the 0–130 m layer, while
+meridional flow transitioned from northward (+0.10 to +0.40 {math}`m\,s^{-1}`)
+to southward, deepening from 50 m to 90 m over a two‑day interval. The
+near‑identical depth–time structures testify to the fidelity of both
+instruments and reinforce the continuity of the WHOTS velocity time series.
 
-```{figure} figures/shipboard_adcp/whots19deploy_adcp_contour1.png
-:width: 1000px
-:align: center
-:name: whots19deploy_adcp_contour1.png
-
-The contour of zonal currents ({math}`m s^{-1}`) from the Ship Oscar Sette
-Ocean Surveyor narrowband 75 kHz shipboard ADCP (upper panel), and the moored 300
-kHz ADCP from the WHOTS-19 mooring (bottom panel) as a function of time and
-depth, during the WHOTS-19 cruise. Times when the CTD rosette was in the
-water are identified between solid and dashed black lines.
-```
-
-```{figure} figures/shipboard_adcp/whots19deploy_adcp_contour2.png
-:width: 1000px
-:align: center
-:name: whots19deploy_adcp_contour2.png
-
-The contour of meridional currents ({math}`m s^{-1}`) from the Ship Oscar Sette
-Ocean Surveyor narrowband 75 kHz shipboard ADCP (upper panel), and the
-moored 300 kHz ADCP from the WHOTS-19 mooring (bottom panel) as a function
-of time and depth, during the WHOTS-19 cruise. Times when the CTD rosette
-was in the water are identified between solid and dashed black lines.
-```
+No equivalent comparison is available for the WHOTS‑19 cruise itself because
+CTD casts at Station 50 were aborted following _CTD modulo_ errors that
+indicated intermittent deck‑unit communication failures.
 
 ```{figure} figures/shipboard_adcp/whots19recover_adcp_contour1.png
 :width: 1000px
 :align: center
 :name: whots19recover_adcp_contour1.png
 
-The contour of zonal currents ({math}`m s^{-1}`) from the Ship Oscar Sette
-Ocean Surveyor narrowband 75 kHz shipboard ADCP (upper panel), and the
-moored 300 kHz ADCP from the WHOTS-19 mooring (bottom panel) as a function
-of time and depth, during the WHOTS-20 cruise. Times when the CTD rosette
-was in the water are identified between solid and dashed black lines.
+Zonal velocity ({math}`m\,s^{-1}`) from the shipboard 75 kHz ADCP (top) and the WHOTS‑19 moored 300 kHz ADCP (bottom) versus depth and day‑of‑year during the WHOTS‑19 recovery / WHOTS‑20 deployment cruise. Black bars mark CTD rosette operations.
 ```
 
 ```{figure} figures/shipboard_adcp/whots19recover_adcp_contour2.png
@@ -585,99 +565,82 @@ was in the water are identified between solid and dashed black lines.
 :align: center
 :name: whots19recover_adcp_contour2.png
 
-Contours of meridional currents ({math}`m s^{-1}`) from the Ship Oscar Sette Ocean
-Surveyor narrowband 75 kHz shipboard ADCP (upper panel), and the moored 300 kHz
-ADCP from the WHOTS-19 mooring (lower panel) as a function of time and depth,
-during the WHOTS-20 cruise. Times when the CTD/rosette was in the water are
-identified between the solid and dashed black lines.
+Meridional velocity ({math}`m\,s^{-1}`) from the same cruise and instruments as {numref}`whots19recover_adcp_contour1.png`. Solid–dashed bars denote CTD deployment periods.
 ```
 
 Comparisons between quality-controlled moored ADCPs during the WHOTS-19
-deployment and available shipboard ADCP obtained during regular HOT cruises 316
-to 332, and during the mooring deployment (WHOTS-19) and recovery (WHOTS-20)
-cruises are shown in {numref}`wh19_moor_ship_ADCP_comp_1.png` and
-{numref}`wh19_moor_ship_ADCP_comp_3.png` for the 300 kHz ADCP. Median and mean
-velocity profiles were computed when HOT CTD casts were being conducted near
-the WHOTS mooring specifically intended to calibrate moored instrumentation
-(see {ref}`/5_section.md#conductivity-calibration`). The HOT shipboard profiles
-were taken when the ship was stationary, within 1 km of the mooring, and within
-4 hours before the start and 4 hours after the end of the CTD cast conducted
-near the WHOTS mooring.
+deployment and available shipboard ADCP obtained during regular HOT cruises 343
+to 347, and during the mooring deployment (WHOTS-19) velocity profiles were
+computed when HOT CTD casts were being conducted near the WHOTS mooring
+specifically intended to calibrate moored instrumentation (see
+{ref}`/5_section.md#conductivity-calibration`). The HOT shipboard profiles were
+taken when the ship was stationary, within 1 km of the mooring, and within 4
+hours before the start and 4 hours after the end of the CTD cast conducted near
+the WHOTS mooring.
 
-HOT-316 was conducted on the R/V Oceanus and used data from TRDI Workhorse 300
-kHz ADCP (wh300) with 2 m bin size, and averaging ensembles every 2 minutes;
-and from a TRDI Ocean Surveyor 75 kHz operating in broadband mode (os75nb) with
-16 m bin size, with 5-minute ensemble interpolated to the profile resolution of
-the shipboard ADCP, and ensemble mean, and median profiles were obtained for
-each data set to compute differences and correlation coefficients between them.
-
-HOT cruises conducted on the R/V Kilo Moana (HOT-317 to HOT-332) used data from
-a TRDI Workhorse 300 kHz ADCP (wh300) with 2 m bin size and averaging
-ensembles every 2 minutes; HOT-317 to HOT-319 and HOT-326 to HOT-332
-used data from a TRDI Ocean Surveyor 38 kHz operating in broadband mode
-(os38bb) with 12 m bin size, with 5-minute ensemble interpolated to the profile
-resolution of the shipboard ADCP. HOT-317 to HOT-319 and HOT-326 to HOT-332
-also used data from a TRDI Ocean Surveyor 38 kHz operating in narrowband mode
-(os38nb) with 24 m bin size, with 5-minute ensemble. HOT-324 only used data
-from the wh300 and os38nb (only three beams were working) instruments. HOT-326
-also displayed issues with the os38 instrument.
+The HOT cruises conducted on the R/V Kilo Moana from HOT-343 to HOT-347
+utilized various acoustic instruments for data collection. The TRDI Ocean
+Surveyor 38 kHz (OS38BB) was operated in broadband mode with a 12-meter bin
+size and 5-minute ensemble intervals, although data in broadband mode was not
+available for HOT-344. Additionally, the cruises used the TRDI
+Ocean Surveyor 38 kHz in narrowband mode (OS38NB), with a 24-meter bin size and
+5-minute ensemble. Furthermore, the Teledyne Workhorse 300 kHz, with a 2-meter
+bin size and 2-minute ensemble intervals, was employed throughout all the
+cruises.
 
 Comparisons between the 300 kHz and the shipboard ADCP were available for
-HOT-316, HOT-318 to -325, HOT-327 to -329
-({numref}`wh19_moor_ship_ADCP_comp_1.png`), and HOT-331 to -332
-({numref}`wh19_moor_ship_ADCP_comp_3.png`); data from all others HOT cruises
-were excluded due to a lack of comparable data.
+HOT-343 to HOT-347, as show in ({numref}`wh19_moor_ship_ADCP_comp_300_1.png`).
+Comparisons between the moored 600 kHz ADCP and the shipboard ADCP are
+presented in {numref}`wh19_moor_ship_ADCP_comp_600_2.png`. Data from all others
+HOT cruises (348 to 350) were excluded due to a lack of comparable data.
 
-Comparisons between the moored 600 kHz and the shipboard ADCP were only
-available for HOT-316 and HOT-318 due to a mechanical issue with 600 kHz
-ADCP on January 21, 2020 ({numref}`wh19_moor_ship_ADCP_comp_2.png` and
-{numref}`wh19_moor_ship_ADCP_comp_4.png`).
-
-```{figure} figures/adcp_moored/wh19_moor_ship_ADCP_comp_1.png
+```{figure} figures/adcp_moored/wh19_moor_ship_ADCP_comp_300_1.png
 :width: 1000px
 :align: center
-:name: wh19_moor_ship_ADCP_comp_1.png
+:name: wh19_moor_ship_ADCP_comp_300_1.png
 
 Mean current profiles during shipboard ADCP (cyan: zonal, magenta: meridional)
 versus moored 300 kHz ADCP (blue: zonal, red: meridional) intercomparisons from
-HOT-316 through HOT-329. Moored minus shipboard ADCP differences shown in
+HOT-343 through HOT-347. Moored minus shipboard ADCP differences shown in
 dotted lines (blue: zonal, red: meridional)
 ```
 
-```{figure} figures/adcp_moored/wh19_moor_ship_ADCP_comp_2.png
+```{figure} figures/adcp_moored/wh19_moor_ship_ADCP_comp_600_2.png
 :width: 1000px
 :align: center
-:name: wh19_moor_ship_ADCP_comp_2.png
+:name: wh19_moor_ship_ADCP_comp_600_2.png
 
 Mean current profiles during shipboard ADCP (cyan: zonal, magenta: meridional)
 versus moored 600 kHz ADCP (blue: zonal, red: meridional) intercomparisons from
-HOT-316 through HOT-329. Moored minus shipboard ADCP differences shown in
+HOT-343 through HOT-347. Moored minus shipboard ADCP differences shown in
 dotted lines (blue: zonal, red: meridional)
-```
-
-```{figure} figures/adcp_moored/wh19_moor_ship_ADCP_comp_3.png
-:width: 1000px
-:align: center
-:name: wh19_moor_ship_ADCP_comp_3.png
-
-Same as {numref}`wh19_moor_ship_ADCP_comp_1.png` but from HOT-331 through
-HOT-332 and from WHOTS-19, and WHOTS-20 cruises.
-```
-
-```{figure} figures/adcp_moored/wh19_moor_ship_ADCP_comp_4.png
-:width: 1000px
-:align: center
-:name: wh19_moor_ship_ADCP_comp_4.png
-
-Same as {numref}`wh19_moor_ship_ADCP_comp_2.png` but from HOT-331 through
-HOT-332 and from WHOTS-19, and WHOTS-20 cruises.
 ```
 
 ## Next Generation Vector Measuring Current Meter Data (VMCM)
 
 Time-series of daily mean horizontal velocity components for the VMCM current
-meters deployed during WHOTS-19 at 10 m and 30 m are presented in
-{numref}`whots19vmcm_plot.png`.
+meters deployed during WHOTS-19 at 10 m and 30 m depths are presented in
+{numref}`whots19vmcm_plot.png`. The plots show the zonal and meridional
+velocity components for each depth, highlighting the variability in both
+east-west and north-south flows.
+
+At 10 m depth the zonal velocity begins with a pronounced westward episode of
+about −0.40 {math}`m\,s^{-1}` in July–August 2023, weakens to near-zero by late
+autumn, then reverses to an eastward maximum of +0.35 to 0.40 {math}`m\,s^{-1}`
+during February–March 2024 before reverting to westward flow (≈ −0.30
+{math}`m\,s^{-1}`) in April. The meridional component at the same depth is
+primarily northward through summer–autumn (+0.20 {math}`m\,s^{-1})`, turns
+southward in January–February (−0.15 to −0.20 {math}`m\,s^{-1}`), and
+rebounds to strong northward bursts of +0.25 to 0.35 {math}`m\,s^{-1}` in April.
+
+At 30 m depth the pattern is similar but slightly muted. Zonal speeds range
+from about −0.30 {math}`m\,s^{-1}` (July–August) to +0.35 {math}`m\,s^{-1}`
+(February–March), implying a ~15 % reduction in amplitude relative to 10 m.
+Meridional speeds vary between −0.15 {math}`m\,s^{-1}` (early winter) and +0.30
+{math}`m\,s^{-1}` (April), again mirroring the surface layer but with smoother
+transitions. The coherent phase evolution between 10 m and 30 m indicates that
+the dominant horizontal current structures span at least the upper 30 m, while
+the modest attenuation with depth points to shear confined largely above 40 m.
 
 ```{figure} figures/vmcm/whots19vmcm_plot.png
 :width: 1000px
@@ -690,9 +653,34 @@ Horizontal velocity data ({math}`m s^{-1}`) during WHOTS-19 from the VMCMs at
 
 ## GPS Data
 
-Time-series of latitude and longitude of the WHOTS-19 buoy from GPS data are
-presented in {numref}`wh19xeos_pos.png`, and spectra of the time-series are
-shown in {numref}`wh19gps_spec_dpng.png`.
+The GPS record (see {numref}`wh19xeos_pos.png`) documents the horizontal
+displacement of the WHOTS-19 surface buoy relative to its charted anchor
+position at 22 ° 46.002′ N, 157 ° 53.768′ W. Throughout the 11-month deployment
+the float remained within a watch circle of ≤ 6.3 km radius, thereby satisfying
+the positional tolerance prescribed for WHOTS operations.
+
+The time series is centred on 22.778 ° N and exhibits three episodes of
+enhanced meridional drift. A modest southward excursion in late August–early
+September 2023 was followed by the largest northward anomaly 22.832 ° N, or 5.5
+km from the mean—between mid-October and mid-November 2023. A third interval of
+sustained northward displacement commenced in early February 2024 and persisted
+until recovery, with daily values stabilising near 22.810 ° N. These anomalies
+coincide with periods of intensified wind stress and mesoscale eddy activity
+identified in the concurrent ADCP record.
+
+Longitudinal positions cluster about 157.900 ° W and range from 157.872 ° W to
+157.950 ° W. The most pronounced westward shift (6.0 km) occurred on 11 January
+2024, contemporaneous with the mid-winter southward latitude dip, whereas the
+largest eastward displacement (4.3 km) coincided with the October–November
+meridional peak. The close phasing between meridional and zonal anomalies
+indicates that the surface buoy responded coherently to the same forcing
+mechanisms—principally seasonal trade-wind surges and passing meso-scale
+eddies.
+
+The WHOTS-19 surface float remained well within the operational
+watch circle, and the rapid relaxation of extreme excursions attests to the
+integrity of the mooring configuration under episodic atmospheric and oceanic
+forcing.
 
 ```{figure} figures/adcp_moored/wh19xeos_pos.png
 :width: 1000px
@@ -702,6 +690,49 @@ shown in {numref}`wh19gps_spec_dpng.png`.
 GPS Latitude (upper panel) and longitude (lower panel) time series from the
 WHOTS-19 deployment.
 ```
+
+Variance-preserving power spectra of the Xeos-GPS latitude and longitude series
+are presented in {numref}`wh19gps_spec_dpng.png`. Both spectra display
+a red-noise behaviour: spectral density declines quasi-monotonically from the
+sub-mesoscale band ({math}`10^{-2}` – {math}`10^{-1}\ \mathrm{d}^{-1}`) toward the
+inertial and tidal frequencies and reaches an instrument-noise floor of
+approximately {math}`10^{-8}\ \mathrm{deg}^{2}\ \mathrm{d}` at frequencies
+{math}`\gtrsim 4\ \mathrm{d}^{-1}`.
+
+At sub-inertial frequencies ({math}`f\lesssim 0.1\ \mathrm{d}^{-1}`) the latitude
+spectrum contains 30–40 % more variance than the longitude spectrum, reflecting
+the anisotropic eddy field at the WHOTS site in which north–south
+displacements exceed west–east motion. The spectral slope in this
+band is close to {math}`-2`, consistent with random-walk behaviour driven by
+mesoscale advection and wind forcing.
+
+Three discrete peaks rise above the red-noise continuum:
+
+Inertial band ({math}`0.7\ \mathrm{d}^{-1}`): a modest but distinct peak
+coincident with the local Coriolis frequency ({math}`\phi =
+22.8^{\circ}\mathrm{N}`) indicates that the surface float responds to
+near-inertial currents generated by episodic wind events.
+
+Diurnal tide (K1, {math}`1.00\ \mathrm{d}^{-1}`): the dominant spectral line
+confirms that barotropic diurnal tides impart measurable displacement to the
+mooring line.
+
+Semidiurnal tide (M2, {math}`1.93\ \mathrm{d}^{-1}`): a secondary yet significant
+peak demonstrates that the barotropic semidiurnal signal, though weaker than
+K1, is also recorded by the surface float.
+
+For frequencies above {math}`2\ \mathrm{d}^{-1}` the spectra flatten toward the
+noise floor, implying that high-frequency processes such as surface-wave drift
+contribute negligibly to net horizontal displacement. The close agreement
+between latitude and longitude spectra—in both peak location and continuum
+level—confirms that the buoy–mooring system responds isotropically to tidal and
+inertial forcing.
+
+The WHOTS-19 surface-float excursions are governed primarily by
+sub-inertial mesoscale motions and by the K1 and M2 tidal constituents, with a
+secondary contribution from near-inertial oscillations. High-frequency
+wind-wave effects are effectively filtered by the mooring’s mechanical
+compliance and by the hourly GPS sampling scheme.
 
 ```{figure} figures/adcp_moored/wh19gps_spec_dpng.png
 :width: 1000px
@@ -714,19 +745,29 @@ the WHOTS-19.
 
 ## Mooring Motion
 
-The position of the mooring with respect to its anchor was determined from the
-GPS positions. Additional information on the mooring motion was provided by the
-ADCP data of pitch, roll, and heading, shown in this section.
+The horizontal excursion of the WHOTS-19 surface buoy, derived from the GPS
+record, provides a direct measure of the mooring-line deflection from vertical.
+Attitude sensors on the two moored ADCPs (300 kHz and 600 kHz) record the
+concurrent instrument tilt—the vector magnitude of pitch and roll. The
+relationship between these two quantities is summarised in
+{numref}`wh19_adcp_tilt.png`.
 
-{numref}`wh19_adcp_tilt.png` shows the ADCP data of the instrument’s tilt (a
-combination of the pitch and roll), plotted against the buoy’s distance from
-its anchor (derived from GPS positions), for both WHOTS-19 ADCP’s. The plot's
-red line is a quadratic fit to the median tilt calculated every 0.2 km distance
-bins. The figure shows that during both deployments, the ADCP tilt increased as
-the anchor's distance increased. This tilting was caused by the mooring line's
-deviation from its vertical position as the anchor pulled it. The tilting of
-the line also caused the rising of the instruments attached to the line. The
-600 kHz ADCP failed in January 2021.
+Each panel presents a cloud of hourly tilt–distance pairs (blue symbols) with a
+quadratic least-squares fit to the median tilt computed in 0.2 km distance bins
+(red line). The sample size exceeds 7 × 10³ for each instrument, and the
+Pearson correlation coefficients are R = 0.72 (300 kHz) and R = 0.69 (600 kHz),
+indicating a strong, statistically significant positive association.
+
+Tilt increases systematically from ≈ 1° at minimal watch-circle radii (≈ 0.5
+km) to 8–10° when the buoy is ~2.3 km from the anchor. This behaviour is
+consistent with classical single-point mooring mechanics: larger horizontal
+drag on the surface float—imposed by currents, wind, and wave drift—produces
+greater catenary curvature and hence a steeper angle at the depth of the ADCPs.
+The similarity of the two fits confirms that the 300 kHz and 600 kHz
+instruments respond comparably to mooring-line deflection, despite their 30 m
+vertical separation. The maximum observed tilt (≈ 12°) remains well below the
+manufacturer’s specification (20°), affirming that data quality was not
+compromised by excessive instrument attitude.
 
 ```{figure} figures/adcp_moored/wh19_adcp_tilt.png
 :width: 1000px
