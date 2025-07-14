@@ -20,7 +20,7 @@ detailed in {ref}`/appendices.md#whots-19-microcat-headers`.
 :align: center
 :name: table-14
 
-| **N. depth (m)** | **SN** |   **PDC**   |   **PRC**   | **TSA(mili°C)** |
+| **N. depth (m)** | **SN** |   **PDC**   |   **PRC**   | **TSA(mili °C)** |
 | :--------------: | :----: | :---------: | :---------: | :-------------: |
 |     **1.6**      |  1727  | 01-Mar-2023 | 16-Aug-2024 |      –1.34      |
 |     **1.6**      |  5996  | 26-Feb-2023 | 16-Aug-2024 |      –1.06      |

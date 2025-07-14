@@ -2,7 +2,7 @@
 
 The hydrographic profile observations made during the WHOTS cruises were
 obtained with a Sea-Bird CTD package with dual temperature, salinity, and
-oxygen sensors. This CTD was installed on a rosette-sampler with 5 L Niskin
+oxygen sensors. This CTD was installed on a rosette sampler with 5 L Niskin
 sampling bottles for calibration water samples. Furthermore, the ship Oscar
 Sette came equipped with a thermosalinograph system that provided a continuous
 depiction of the near-surface layer's temperature and salinity. Horizontal
@@ -10,7 +10,7 @@ currents over the depth range of 30-700 m were measured from the shipboard 75
 kHz Ocean Surveyor (OS75) ADCP (narrowband) with a vertical resolution of 16m
 for the WHOTS-19 and WHOTS-20 cruises. Broadband mode for the OS75 provided
 additional current data over the range upper 200 m with a vertical resolution
-of 8m. Unfortunately the broadband mode was non-functional during WHOTS-20.
+of 8m. Unfortunately, the broadband mode was non-functional during WHOTS-20.
 
 Data gaps occurred when the system was shut down temporarily during
 communications with the acoustic releases used for the moorings during both
@@ -192,7 +192,7 @@ reported here were calibrated against bottle data, as explained below.
 Daily files containing navigation data recorded every second were concatenated
 with the thermosalinograph data. The thermosalinograph data were then screened
 for gross errors, with upper and lower bounds of 18°C and 35°C for
-temperature and 3 and 6 Siemens/m for conductivity. There were no points
+temperature and 3 and 6 {math}`\text{S m}^{-1}` for conductivity. There were no points
 outside the valid temperature range and no points outside the valid
 conductivity range.
 
@@ -200,7 +200,7 @@ A 5-point running median filter was used to detect one- or two-point
 temperature and conductivity glitches in the thermosalinograph data. Glitches
 in temperature and conductivity detected by the 5-point median filter were
 immediately replaced by the median. Threshold values of 0.3°C for temperature
-and 0.1 Siemens/m for conductivity were used for the median filter. After
+and 0.1 {math}`\text{S m}^{-1}` for conductivity were used for the median filter. After
 running the filter, there were 5 internal temperature, 0 external
 temperature, and 5 conductivity points replaced with the median.
 
@@ -296,8 +296,8 @@ explained below.
 
 Daily files containing navigation data recorded every second were concatenated
 with the thermosalinograph data. The thermosalinograph data were then screened
-for gross errors, with upper and lower bounds of 18°C and 35°C for
-temperature and 3 and 6 Siemens m -1 for conductivity. There were 488 points
+for gross errors, with upper and lower bounds of 18°C and 35°C for temperature
+and 3 and 6 {math}`\text{S m}^{-1}` for conductivity. There were 488 points
 outside the valid temperature range and no points outside the valid
 conductivity range.
 
@@ -305,19 +305,19 @@ A 5-point running median filter was used to detect one- or two-point
 temperature and conductivity glitches in the thermosalinograph data. Glitches
 in temperature and conductivity detected by the 5-point median filter were
 immediately replaced by the median. Threshold values of 0.3°C for temperature
-and 0.1 Siemens m-1 for conductivity were used for the median filter. After
-running the filter, there was no internal temperature, no external temperature.
-There were 25 conductivity points replaced by the median. A 3-point triangular
-running mean filter was used to smooth the temperature and conductivity data
-after passing the glitch detection.
+and 0.1 {math}`\text{S m}^{-1}` for conductivity were used for the median
+filter. After running the filter, there was no internal temperature, no
+external temperature. There were 25 conductivity points replaced by the median.
+A 3-point triangular running mean filter was used to smooth the temperature and
+conductivity data after passing the glitch detection.
 
 The thermosalinograph aboard the Ship Oscar Sette was set to record data every
 second. Both thermosalinographs exhibited a number of conductivity and
 temperature glitches due to air going into the plumbing.
 
-Data were visually scanned to flag spikes likely caused by contamination due to
-the introduction of bubbles to the flow-through system during transits or rough
-conditions. Of 705386 data points, 137989 conductivity data points were
+Data set was visually scanned to flag spikes likely caused by contamination due
+to the introduction of bubbles to the flow-through system during transits or
+rough conditions. Of 705386 data points, 137989 conductivity data points were
 flagged as bad.
 
 #### Bottle salinity and CTD Salinity Comparisons

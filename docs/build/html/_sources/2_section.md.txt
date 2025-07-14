@@ -3,10 +3,10 @@
 ## WHOTS-19 Cruise: WHOTS-19 Mooring Deployment
 
 The Woods Hole Oceanographic Institution Upper Ocean Processes Group (WHOI/UOP)
-, with the UH group's assistance, conducted the 19 deployment of the WHOTS
-mooring onboard the Oscar Elton Settle during the WHOTS-19 cruise between June
+with the UH group's assistance, conducted the 19 deployment of the WHOTS
+mooring onboard the Oscar Elton Sette during the WHOTS-19 cruise between June
 15 and June 22, 2023. The WHOTS-19 mooring was deployed at Station 50 on June
-17, 2023, 02:59 UTC at 22 46.002'N, 157 53.768'W, and the WHOTS-18 mooring were
+17, 2023, 02:59 UTC at 22°46.002'N, 157°53.768'W, and the WHOTS-18 mooring were
 recovered on June 18, 2023. The scientific personnel that participated during
 the cruise are listed in {numref}`table-1`.
 
@@ -27,7 +27,6 @@ the cruise are listed in {numref}`table-1`.
 |       Maloney, Kelsey        |   HIMB Housing Coordinator    |       UH        |
 |       Adkison, Camille       |      Graduate Volunteer       |       UH        |
 |       Dale, Elizabeth        |      Research Technician      |      WHOI       |
-
 ```
 
 The UH group conducted the shipboard oceanographic observations during the
@@ -72,13 +71,12 @@ sensors.
 |       52/2       | 06/18/2023 |       20:02       | 22°40.888´N, 157°58.803´W |             203             |
 |       52/3       | 06/19/2023 |       00:05       | 22°40.707´N, 157°58.954´W |             202             |
 |       52/4       | 06/19/2023 |       05:22       | 22°41.226´N, 157°58.574´W |             200             |
-
 ```
 
 Also, continuous ADCP and near-surface thermosalinograph data were obtained
 while underway.
 
-The R/V Oscar Elton Settle was equipped with a RDI Ocean Surveyor 75 kHz ADCP,
+The R/V Oscar Elton Sette was equipped with a RDI Ocean Surveyor 75 kHz ADCP,
 set to function in broadband and narrowband configurations. The configuration
 information is shown in {numref}`table-3`. The ADCP used input from a SAMOS
 gyrometer and Furuno GP 150, a GPS receiver, to establish the ship's heading
@@ -104,7 +102,7 @@ intake line and included the following instruments: an SBE-21 thermosalinograph
 (SN 3168), an SBE-45 micro-thermosalinograph (SN 0290), and an external SBE-38
 temperature sensor (SN 212). The SBE-21 and SBE-45 units, each equipped with
 internal temperature and conductivity sensors, were located in the ship’s
-chemistry lab , approximately 70 meters from the hull intake. The
+chemistry lab, approximately 70 meters from the hull intake. The
 SBE-38 was mounted externally at the seawater intake, positioned on the
 starboard side of the bow, forward of the bow thruster, at a depth of
 approximately 3 meters. All sensors recorded data every second. The
@@ -182,7 +180,7 @@ the absence of a functioning altimeter onboard, it was not possible to safely
 approach the depth of the deepest MicroCATs, located at approximately 4659 m.
 
 Between four and five water samples were collected during each cast using
-0.25-liter glass bottles. These samples were returned to the University of
+0.25 liter glass bottles. These samples were returned to the University of
 Hawai‘i for salinity analysis and were used to calibrate the CTD
 conductivity sensors.
 
