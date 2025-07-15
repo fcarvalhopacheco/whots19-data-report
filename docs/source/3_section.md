@@ -79,16 +79,15 @@ Two SBE-37 MicroCATs were at 1.55m measuring at every 300s (See
 ```
 
 Instrumentation provided by UH for the WHOTS-19 mooring included 18 Sea-Bird
-SBE-37 MicroCATs, of which 9 were pressure-equipped, and two newly added
-MicroCATs deployed at greater depths (120 m, 135 m). All MicroCATs measured
+SBE-37 MicroCATs, of which 9 were pressure-equipped. Two of them were installed 
+approximately 39 m above the anchor. All MicroCATs measured
 temperature and conductivity and were deployed with antifoulant capsules to
 minimize biofouling. In addition, UH deployed two upward-looking RDI Workhorse
 Acoustic Doppler Current Profilers (ADCPs) operating at 300 kHz and 600 kHz,
 respectively. WHOI contributed two Vector Measuring Current Meters (VMCMs), an
 Acoustic Receiver, and all required deep mooring hardware. The ADCPs were
 mounted at nominal depths of 47.5 m and 125 m, and the VMCMs were positioned at
-10 m and 30 m. Two additional SBE-37 MicroCATs were installed approximately 39 m
-above the anchor.
+10 m and 30 m. 
 
 The {numref}`mooring_subsurface` table provides detailed metadata for the
 WHOTS-19 subsurface instrumentation, including nominal depths, serial numbers,
@@ -222,8 +221,8 @@ recognizable signal spike ({numref}`table-9`, {numref}`table-10`).
 
 The 300 kHz ADCP at 125 m (SN 7637) operated flawlessly for the entire
 deployment and was still recording on recovery. In contrast, the 600 kHz ADCP
-at 47.5 m (SN 13917) stopped logging on 25 March 2024. Data collected before
-shutdown are good, aside from near-surface side-lobe interference.
+at 47.5 m (SN 13917) stopped logging on 25 March 2024. Data collected are 
+good, aside from near-surface side-lobe interference.
 
 The RDI 300 kHz Workhorse Sentinel ADCP, SN 7637, was installed at 125 m with
 its transducers facing upward and an external battery pack. It pinged every 4 s
@@ -254,9 +253,8 @@ WHOTS-19 instruments were retrieved. Biofouling was common—severe near the
 surface and detectable, though minor, down to the 125 m ADCP.
 
 Post-recovery inspection found every MicroCAT intact with its antifoulant
-capsule. Preliminary checks show high-quality records from all units except
-those flagged in {numref}`table-8`; definitive assessment awaits post-deployment
-calibrations and QA/QC (see
+capsule. High-quality records were obtained from all units except
+those flagged in {numref}`table-8` (see
 {ref}`/5_section.md#microcat-data-processing-procedures`,
 {ref}`/6_section.md#microcat-data`). One exception is SN 2769, which failed to
 log pressure and conductivity, although no external damage to the sensor or its

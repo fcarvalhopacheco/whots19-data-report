@@ -5,7 +5,10 @@ obtained with a Sea-Bird CTD package with dual temperature, salinity, and
 oxygen sensors. This CTD was installed on a rosette sampler with 5 L Niskin
 sampling bottles for calibration water samples. Furthermore, the ship Oscar
 Sette came equipped with a thermosalinograph system that provided a continuous
-depiction of the near-surface layer's temperature and salinity. Horizontal
+depiction of the near-surface layer's temperature and salinity. However
+near-surface temperatures were not available during the WHOTS-20 cruise,
+because the thermosalinograph remote temperature sensor was not functional. 
+Horizontal
 currents over the depth range of 30-700 m were measured from the shipboard 75
 kHz Ocean Surveyor (OS75) ADCP (narrowband) with a vertical resolution of 16m
 for the WHOTS-19 and WHOTS-20 cruises. Broadband mode for the OS75 provided
@@ -17,13 +20,12 @@ communications with the acoustic releases used for the moorings during both
 cruises. Periods of missing data between 300 and 450 m in the broadband ADCP
 were apparent due to the lack of scattering material in the water.
 
-```{warning} **UPDATE BELOW*
 
 ## Conductivity, Temperature, and Depth (CTD) Profiling
 
 Continuous measurements of temperature, conductivity, dissolved oxygen, and
 pressure were made with the UH Sea-Bird SBE-9/11Plus CTD underwater units
-#1506 and #0895 during WHOTS-19 and WHOTS-20 cruises respectively. The CTD was
+#1506 and #1487 during WHOTS-19 cruise and #0895 during WHOTS-20 cruise. The CTD was
 equipped with an internal Digiquartz pressure sensor and pairs of external
 temperature, conductivity, and oxygen sensors.
 
@@ -72,8 +74,9 @@ Practical Salinity(SA) scale (PSS-78). Oxygen is reported in umol kg-1.
 
 #### Pressure
 
-The pressure calibration strategy for CTD pressure transducer #154451 used
-during WHOTS-19 and #101430 and #75434 for WHOTS-20 cruise employed a
+The pressure calibration strategy for CTD pressure transducers #154451 
+and #53702 used
+during WHOTS-19 and #101430 used during WHOTS-20 cruise employed a
 high-quality quartz pressure transducer as a transfer standard. Periodic
 recalibrations of this lab standard were performed with a primary pressure
 standard. The only corrections applied to the CTD pressures were a constant
@@ -95,15 +98,15 @@ report {cite}`Fujieki2024` and HOT-2023 data report `{cite}`Fukieki???``
 
 Sea-Bird SBE-43 oxygen sensors were used during the WHOTS-19 and -20 cruises.
 The WHOTS-19 oxygen data were calibrated using calibration coefficients
-obtained during the HOT-343 cruise conducted on 8-14 August 2023, after the
-WHOTS-19 cruise, which used the same oxygen sensors. The CTD empirical
+obtained during the HOT-342 cruise conducted on 24-30 May 2023, before the
+WHOTS-19 cruise, which used the same primary oxygen sensor. The CTD empirical
 calibration was performed using oxygen water samples and the procedure from
 {cite}`Owens1985`. See {cite}`Tupas1996` for details on these calibrations
 procedures. The oxygen data from WHOTS-20 were calibrated using calibration
-coefficients obtained during the HOT-xxx cruise conducted on xx-xx on  ??February??
-202x?, before/after the WHOTS-20 cruise, which used the same oxygen sensors.
+coefficients obtained during the HOT-350 cruise conducted on April 27 to 
+May 1, 2024 before the WHOTS-20 cruise, which used the same oxygen sensors.
 
-```
+
 
 ## Water Sampling and Analysis
 

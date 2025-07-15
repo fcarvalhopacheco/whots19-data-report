@@ -3,11 +3,11 @@
 ## WHOTS-19 Cruise: WHOTS-19 Mooring Deployment
 
 The Woods Hole Oceanographic Institution Upper Ocean Processes Group (WHOI/UOP)
-with the UH group's assistance, conducted the 19 deployment of the WHOTS
+with the UH group's assistance, conducted the 19th deployment of the WHOTS
 mooring onboard the Oscar Elton Sette during the WHOTS-19 cruise between June
 15 and June 22, 2023. The WHOTS-19 mooring was deployed at Station 50 on June
-17, 2023, 02:59 UTC at 22°46.002'N, 157°53.768'W, and the WHOTS-18 mooring were
-recovered on June 18, 2023. The scientific personnel that participated during
+17, 2023, 02:59 UTC at 22°46.057'N, 157°53.964'W, and the WHOTS-18 mooring was
+recovered on June 19, 2023. The scientific personnel that participated during
 the cruise are listed in {numref}`table-1`.
 
 ```{table} Scientific personnel on Ship Oscar Sette during the WHOTS-19 deployment cruise.
@@ -25,13 +25,13 @@ the cruise are listed in {numref}`table-1`.
 |       Fitzgerald, Dan        | Marine Electronics Technician |       UH        |
 |        Rohrer, Tully         |      Research Associate       |       UH        |
 |       Maloney, Kelsey        |   HIMB Housing Coordinator    |       UH        |
-|       Adkison, Camille       |      Graduate Volunteer       |       UH        |
+|       Adkison, Camille       |      Research Assistant       |       UH        |
 |       Dale, Elizabeth        |      Research Technician      |      WHOI       |
 ```
 
 The UH group conducted the shipboard oceanographic observations during the
-cruise. A complete description of these operations is available in the
-{cite}`Santiago-Mandujano2024a`.
+cruise. A complete description of these operations is available in the WHOTS-19
+cruise report {cite}`Santiago-Mandujano2024a`.
 
 A Sea-Bird CTD (Conductivity, Temperature, and Depth) system was used to
 collect temperature (T), salinity (S), and dissolved oxygen (O₂) profiles
@@ -119,7 +119,7 @@ of Hawai‘i laboratory.
 The WHOI/UOP group carried out the mooring turnaround operations during the
 WHOTS-20 cruise, which took place from May 31 to June 8, 2024. The WHOTS-20
 mooring was successfully deployed at Station 52 on June 2, 2024, at 03:54 UTC,
-at coordinates 22°40.100′N, 157°56.801′W. The WHOTS-19 mooring was recovered on
+at coordinates 22°40.08′N, 157°57.01′W. The WHOTS-19 mooring was recovered on
 June 6, 2024, at 18:50 UTC. The scientific personnel who participated in the
 cruise are listed in {numref}`table-4`.
 
@@ -136,9 +136,9 @@ cruise are listed in {numref}`table-4`.
 |       Fitzgerald, Dan        | Marine Electronics Technician |       UH        |
 | Santiago-Mandujano, Fernando |      Research Associate       |       UH        |
 |        Rohrer, Tully         |      Research Associate       |       UH        |
-|      Shepherd, Merritt       |       Graduate Student        |       UH        |
+|      Shepherd, Merritt       |       Research Assistant      |       UH        |
 |       Maloney, Kelsey        |   HIMB Housing Coordinator    |       UH        |
-|       Prajna, Jandial        |       Graduate Student        |       UH        |
+|       Jandial, Prajna        |       Graduate Student        |       UH        |
 |         Dirks, Jonah         |       Graduate Student        |       UH        |
 ```
 
