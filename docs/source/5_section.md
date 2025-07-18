@@ -40,8 +40,8 @@ detailed in {ref}`/appendices.md#whots-19-microcat-headers`.
 |    **120**       | 25352  | 29-Dec-2022 | 24-Oct-2024 |      0.23       |
 |    **135**       | 25444  | 30-Dec-2022 | 24-Oct-2024 |      –0.64      |
 |    **155**       |  4701  | 18-Apr-2023 | 20-Oct-2024 |      0.18       |
-|    **4710**      | 11381  | 10-Feb-2023 | 20-Aug-2024 |      0.87       |
-|    **4710**      | 11380  | 15-Feb-2023 | 20-Aug-2024 |      –0.35      |
+|    **4665**      | 11381  | 10-Feb-2023 | 20-Aug-2024 |      0.87       |
+|    **4665**      | 11380  | 15-Feb-2023 | 20-Aug-2024 |      –0.35      |
 ```
 
 ### Internal Clock Check and Missing Samples
@@ -55,7 +55,8 @@ For all the instruments, the clock time of this event matched the time of the
 spike (within the sampling interval of each instrument) correctly.
 The instrument SN 2769 failed to record pressure and conductivity, although
 nothing was visibly wrong with this instrument or its conductivity cell after
-recovery.
+recovery. The instrument was repaired at Sea-Bird in March, 2025 and
+it is back in working conditions.
 
 ### Pressure Drift Correction and Pressure Variability
 
@@ -63,14 +64,14 @@ recovery.
 Some MicroCATs used in the moorings were outfitted with pressure sensors
 ({numref}`table-8`). Biases were detected in the pressure sensors by comparing
 the on-deck pressure readings (which should be zero for standard atmospheric
-pressure at sea level of 1029 mbar) before deployment and after recovery.
+pressure) before deployment and after recovery.
 {numref}`table-15` shows the magnitude of the bias for each of the sensors
 before and after deployment. To correct this offset, a linear fit between the
 initial and final on-deck pressure offset as a function of time was obtained
 and subtracted from each sensor. {numref}`figure5.1` shows the linearly
 corrected pressures measured by the MicroCATs located above 200 m during the
 WHOTS-18 deployment. For all these sensors, the mean difference from the
-nominal instrument pressure (based on the deployed depth) was less than xx.xx
+nominal instrument pressure (based on the deployed depth) was less than 1.5
 dbar. The standard deviation of the pressure for the duration of the record was
 less than 1 dbar for all sensors, with the deeper sensors showing a slightly
 larger standard deviation. The range of variability for all sensors was about ±
@@ -82,7 +83,7 @@ due to the currents but also due to the motion of the mooring); mooring
 position {cite}`Santiago-Mandujano2007`.
 ```
 
-```{table} Pressure bias of MicroCATs with pressure sensors for WHOTS-19. All the instruments with a NA pressure bias ended recording before recovery. SN = Sea-bird Serial Number; BBD = Bias Before Deployment (dbar); BAR = Bias After Recovery (dbar)
+```{table} Pressure bias of MicroCATs with pressure sensors for WHOTS-19. SN = Sea-bird Serial Number; BBD = Bias Before Deployment (dbar); BAR = Bias After Recovery (dbar)
 :class: sd-m-auto
 :align: center
 :name: table-15
@@ -117,7 +118,7 @@ instrument’s pressure and nominal pressure.
 The MicroCAT temperature sensors were calibrated at Sea-Bird before and after
 each deployment, and their annual drift evaluations based on these calibrations
 are shown in {numref}`table-14`. These values turned out to be insignificant (
-not higher than 0.002 °C) for all sensors. Comparisons between the MicroCAT and
+not higher than 0.0015 °C) for all sensors. Comparisons between the MicroCAT and
 CTD data from casts conducted near the mooring during HOT cruises confirmed
 that the rest of the moored instruments' temperature drift was insignificant.
 The temperatures from the two MicroCATs (SN 11381 and SN 11380) deployed near
@@ -158,12 +159,12 @@ between the uncorrected VMCM and the 7-m MicroCAT data. Also shown for
 comparison in the middle panel of the figure are the corrected VMCM temperature
 differences from the 15 m MicroCAT. The lower panel shows the temperature
 fluctuations in the differences between the 7 and 15-m MicroCATs, which seem to
-be around zero.
+be around zero, with sporadic high excursions (nearly 0.6 °C) from the
+7 m MicroCAT.
 
-Temperature differences between the 30-m VMCM and the temperatures from
+Temperature differences between the 30-m VMCM and the 
 adjacent MicroCATs at 25 and 35-m during WHOTS-19 are shown in
-{numref}`figure5.4`. The offset was the mean difference between the uncorrected
-VMCM and the 25-m MicroCAT data. For comparison, the differences between the
+{numref}`figure5.4`. For comparison, the differences between the
 MicroCATs temperatures are also shown in the lower panel.
 
 Temperature differences between the 47.5-m ADCP and the temperatures from
@@ -179,7 +180,7 @@ adjacent MicroCATs at 120 and 135-m during WHOTS-19 are shown in
 differences between the 125 m ADCP and the flanking 120 m and 135 m MicroCATs
 remain centered near 0 °C for most of the record, indicating the ADCP
 thermometer tracks the dedicated sensors well; large positive excursions (~2–3
-°C) in January 2024—and matching spikes in the MicroCAT-to-MicroCAT
+°C) in late December 2023 - January 2024—and matching spikes in the MicroCAT-to-MicroCAT
 gradient—show that those brief anomalies arise from real, steep stratification
 at the thermocline’s upper edge rather than sensor drift. Seasonal trends are
 also clear: the vertical gradient gradually intensifies from summer to
@@ -401,10 +402,10 @@ shown in {numref}`table-16`.
 
 #### Pre-Deployment
 
-Before the WHOTS-19 deployment, field calibration of the internal ADCP compass
-was performed at the University of Hawaii’s soccer field at Manoa on May 2023,
+Before the WHOTS-19 deployment, field calibration of the internal ADCPs compass
+was performed at the University of Hawaii’s at Manoa on May 2023,
 for 300 kHz and the 600 kHz instruments. Each instrument was mounted in the
-deployment cage with the external battery module and was located away from
+deployment cage with the external battery module in an area located away from
 potential sources of magnetic field disturbances. The ADCP was mounted to a
 turntable, aligned with the magnetic north using a surveyor’s compass. Using
 the built-in RDI calibration procedure, the instrument was tilted in one
@@ -439,7 +440,7 @@ each pre-deployment field calibration are shown in {numref}`table-17` and
 #### Post-Deployment
 
 After the WHOTS-19 mooring was recovered, the ADCP compass's performance was
-tested at the University of Hawai’i’s soccer field at Manoa on June 13,
+tested at the University of Hawai’i’s at Manoa on June 13,
 2024, with an identical compass calibration procedure as during the
 pre-deployment calibration. Results from the WHOTS-19 post-deployment ADCP
 compass field calibration procedure are listed in {numref}`table-19` and
