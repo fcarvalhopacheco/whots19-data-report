@@ -15,11 +15,11 @@ oscillations, producing pronounced vertical shear. Hydrographic profiles
 collected near the WHOTS-18 buoy (Station 52)
 ({numref}`figure6.1`–{numref}`figure6.3`) documented a mixed layer roughly 40 dbar
 deep and a subsurface salinity maximum centred between 130 dbar and 150 dbar.
-CTD casts at Station 50 were aborted following _CTD modulo_ errors that
+CTD casts near the WHOTS-19 buoy (Station 50) were aborted following _CTD modulo_ errors that
 indicated intermittent deck‑unit communication problems.
 
 Conditions during the subsequent WHOTS-19 recovery and WHOTS-20 deployment on
-1–2 June 2024 were more energetic. The same high-pressure ridge persisted, but
+16 June 2024 were more energetic. The same high-pressure ridge persisted, but
 trade-wind speeds peaked near 22 kt at the start of operations before easing to
 about 7 kt by cruise end; clear skies again prevailed and no rainfall was
 recorded. A 1.5–2 m swell propagated from the north-northwest. Near-surface
@@ -36,7 +36,7 @@ Hourly temperature and salinity from the sixteen MicroCAT recorders (sampling
 depths 1.5–155 m) reveal a coherent seasonal thermohaline signal modulated by
 two prominent anomalies. In the upper 25 m the mixed‑layer temperature
 increased quasi‑linearly from ≈ 25 °C in June 2023 to a late‑October maximum of
-27.2 °C, then decreased at roughly 0.06 °C d⁻¹ to a February–March minimum of
+27.2 °C, then decreased at roughly 0.06 °C d⁻¹ to a February–March 2024 minimum of
 23 °C, recovering to ~24 °C by June 2024 ({numref}`wh19_Temp_1_4.png`). The
 amplitude of this seasonal cycle attenuates with depth—from 3.4 °C at 40 m to
 1.4 °C at 155 m—and the timing of extrema lags downward at an average phase
@@ -256,6 +256,10 @@ in {numref}`ac42thsl_final.png` and navigational data is shown in
 {numref}`ac42nav_final.png` for the WHOTS-19 cruise. TSG and navigational data
 during the WHOTS-20 cruise, on board the R/V Oscar Sette, are presented in
 {numref}`ac43thsl_final.png` and {numref}`ac43nav_final.png`, respectively.
+Note that the WHOTS-20 displayed temperature is from the internal TSG
+sensor, and it does not represent the near-surface temperature. The 
+remote temperature sensor on the ship Oscar Elton Sette was not
+functional during this cruise.
 
 ```{figure} figures/thermosal/ac42thsl_final.png
 :height: 600px
@@ -287,6 +291,8 @@ speed (lower panel) during the WHOTS-19 cruise.
 Final processed temperature (upper panel), salinity (middle panel), and
 potential density ({math}`\sigma\theta`) (lower panel) data from the continuous
 underway system onboard the R/V Oscar Sette during the WHOTS-20 cruise.
+The displayed temperature is from the internal TSG
+sensor, and it does not represent the near-surface temperature (see text). 
 Temperature and salinity were taken from 6-dbar CTD data (circles), and
 salinity bottle sample data (crosses) are superimposed. The dashed vertical red
 line indicates the period of occupation of Station ALOHA and the WHOTS site.
@@ -765,7 +771,7 @@ drag on the surface float—imposed by currents, wind, and wave drift—produces
 greater catenary curvature and hence a steeper angle at the depth of the ADCPs.
 The similarity of the two fits confirms that the 300 kHz and 600 kHz
 instruments respond comparably to mooring-line deflection, despite their 30 m
-vertical separation. The maximum observed tilt (≈ 12°) remains well below the
+vertical separation. The maximum observed tilt (≈ 15°) remains below the
 manufacturer’s specification (20°), affirming that data quality was not
 compromised by excessive instrument attitude.
 
