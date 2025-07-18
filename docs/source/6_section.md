@@ -29,9 +29,10 @@ coincident with elevated sea level north of the mooring. Internal semidiurnal
 and diurnal tidal constituents, together with near-inertial motions, generated
 substantial vertical shear throughout the upper-ocean velocity field.
 Pre-recovery CTD casts adjacent to the WHOTS-19 buoy (Station 50)
-({numref}`figure6.6`) recorded a slightly deeper mixed layer of roughly 50 dbar
-and a sharper, shallower subsurface salinity maximum near 60 dbar.
-CTD casts were also performed near the WHOTS-20 buoy (Station 52) ({numref}`figure6.7`–{numref}`figure6.10`) 
+({numref}`figure6.6`- {numref}`figure6.8`) recorded a slightly deeper mixed
+layer of roughly 50 dbar and a sharper, shallower subsurface salinity maximum
+near 60 dbar.  CTD casts were also performed near the WHOTS-20 buoy (Station
+52) ({numref}`figure6.9`–{numref}`figure6.10`) 
 
 Hourly temperature and salinity from the sixteen MicroCAT recorders (sampling
 depths 1.5–155 m) reveal a coherent seasonal thermohaline signal modulated by
