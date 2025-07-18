@@ -31,6 +31,7 @@ substantial vertical shear throughout the upper-ocean velocity field.
 Pre-recovery CTD casts adjacent to the WHOTS-19 buoy (Station 50)
 ({numref}`figure6.6`) recorded a slightly deeper mixed layer of roughly 50 dbar
 and a sharper, shallower subsurface salinity maximum near 60 dbar.
+CTD casts were also performed near the WHOTS-20 buoy (Station 52) ({numref}`figure6.7`–{numref}`figure6.10`) 
 
 Hourly temperature and salinity from the sixteen MicroCAT recorders (sampling
 depths 1.5–155 m) reveal a coherent seasonal thermohaline signal modulated by
@@ -242,10 +243,18 @@ Upper panels] Same as in {numref}`figure6.6`, but for station 50, cast
 ```{figure} figures/ctd/2.whots_20/s52c1_s52c2.png
 :height: 1000px
 :align: center
-:name: figure6.10
+:name: figure6.9
 
 Upper panels] Same as in {numref}`figure6.6`, but for station 52, cast 1.
 [Lower panels] Same as in {numref}`figure6.6`, but for station 52, cast 2.
+```
+
+```{figure} figures/ctd/2.whots_20/s52c3_s52c3.png
+:height: 1000px
+:align: center
+:name: figure6.10
+
+Upper panels] Same as in {numref}`figure6.6`, but for station 52, cast 3.
 ```
 
 ## Thermosalinograph Data
