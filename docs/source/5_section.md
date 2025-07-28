@@ -60,7 +60,6 @@ it is back in working conditions.
 
 ### Pressure Drift Correction and Pressure Variability
 
-```{warning}
 Some MicroCATs used in the moorings were outfitted with pressure sensors
 ({numref}`table-8`). Biases were detected in the pressure sensors by comparing
 the on-deck pressure readings (which should be zero for standard atmospheric
@@ -81,7 +80,6 @@ The causes of pressure variability can be several, including density variations
 in the water column above the instrument; horizontal dynamic pressure (not only
 due to the currents but also due to the motion of the mooring); mooring
 position {cite}`Santiago-Mandujano2007`.
-```
 
 ```{table} Pressure bias of MicroCATs with pressure sensors for WHOTS-19. SN = Sea-bird Serial Number; BBD = Bias Before Deployment (dbar); BAR = Bias After Recovery (dbar)
 :class: sd-m-auto
@@ -114,7 +112,6 @@ instrument’s pressure and nominal pressure.
 
 ### Temperature Sensor Stability
 
-```{warning}
 The MicroCAT temperature sensors were calibrated at Sea-Bird before and after
 each deployment, and their annual drift evaluations based on these calibrations
 are shown in {numref}`table-14`. These values turned out to be insignificant (
@@ -132,7 +129,6 @@ Temperature comparisons between one of the WHOTS-19 near-surface MicroCAT
 {numref}`table-7` are shown in {numref}`figure5.2`. All the SBE-56 instruments
 returned full records, and none of them show any obvious bias compared to the
 Microcat measurements.
-```
 
 ```{figure} figures/microcats/w19tcompare_1.png
 :height: 1000px
@@ -162,7 +158,7 @@ fluctuations in the differences between the 7 and 15-m MicroCATs, which seem to
 be around zero, with sporadic high excursions (nearly 0.6 °C) from the
 7 m MicroCAT.
 
-Temperature differences between the 30-m VMCM and the 
+Temperature differences between the 30-m VMCM and the
 adjacent MicroCATs at 25 and 35-m during WHOTS-19 are shown in
 {numref}`figure5.4`. For comparison, the differences between the
 MicroCATs temperatures are also shown in the lower panel.
