@@ -1,0 +1,285 @@
+# Metadata for Sensor Serial Number: 6410
+* <?xml version="1.0"?>
+* <!--DeviceManager-->
+* <SBEDataUploadFile>
+* <ApplicationData>
+* <DeviceInterfaceAppData>
+* <SoftwareVersion>1.8.2</SoftwareVersion>
+* <BuildDate>25-Jul-2018 07:49:42 UTC</BuildDate>
+* </DeviceInterfaceAppData>
+* </ApplicationData>
+* <InstrumentState>
+* <StatusData DeviceType='SBE56' SerialNumber='05606410'>
+*    <DateTime>2024-06-08T06:39:40</DateTime>
+*    <DelayedStart>2023-06-06T01:00:00</DelayedStart>
+*    <EventSummary numEvents='0'/>
+*    <Power>
+*       <MainSupplyVoltage>3.64</MainSupplyVoltage>
+*       </Power>
+*    <ADCRatio>
+*       <Ratio>7056416</Ratio>
+*       </ADCRatio>
+*    <Battery>
+*       <Installed>2023-05-01T19:38:22</Installed>
+*       <Samples>530257</Samples>
+*       </Battery>
+*    <MemorySummary>
+*       <Samples>530257</Samples>
+*       <Bytes>2207744</Bytes>
+*       <BytesFree>64376832</BytesFree>
+*       </MemorySummary>
+*    </StatusData>
+*
+* <HardwareData DeviceType='SBE56' SerialNumber='05606410'>
+*    <Manufacturer>Sea-Bird Electronics, Inc</Manufacturer>
+*    <FirmwareVersion>SBE56 V0.98</FirmwareVersion>
+*    <FirmwareDate>May  7 2019</FirmwareDate>
+*    <PCBAssembly PCBID='101889' AssemblyNum='41688F'/>
+*    <MfgDate>Feb 25 2011</MfgDate>
+*    <PCBType>0</PCBType>
+*    <InternalSensors>
+*       <Sensor id='Water Temperature'>
+*          <type>TEMP0</type>
+*          <SerialNumber>05606410</SerialNumber>
+*          </Sensor>
+*       </InternalSensors>
+*    </HardwareData>
+*
+* <ConfigurationData DeviceType='SBE56' SerialNumber='05606410'>
+*    <Settings
+*       samplePeriod='60' format='1' />
+*    </ConfigurationData>
+*
+* <CalibrationCoefficients DeviceType='SBE56' SerialNumber='05606410'>
+*    <Calibration format='TEMP0' id='Water Temperature'>
+*       <CalDate>2023-02-18</CalDate>
+*       <a0>-1.381770E-03</a0>
+*       <a1>3.686239E-04</a1>
+*       <a2>-7.899647E-06</a2>
+*       <a3>2.292975E-07</a3>
+*       <OFFSET>0.000000E+00</OFFSET>
+*       </Calibration>
+*    </CalibrationCoefficients>
+*
+* <EventSummary DeviceType='SBE56' SerialNumber='05606410'>
+*    <EventList numEvents='0' maxStack='-2'>
+*       </EventList>
+*    </EventSummary>
+*
+* </InstrumentState>
+* <UserHeaderInsert>
+* <![CDATA[
+* ** WHOTS 19 STARBOARD 240 DEG - 80 CM BELOW DECK
+* ]]>
+* </UserHeaderInsert>
+# nquan = 4
+# nvalues = 530257
+# units = specified
+# name 0 = scan: Scan Count
+# name 1 = timeJ: Julian Days
+# name 2 = t090C: Temperature [ITS-90, deg C
+# name 3 = flag:   0.000e+00
+# span 0 =          1,     530257
+# span 1 = 157.041667, 525.274988
+# span 2 =    -0.0038,    34.3955
+# span 3 =  0.000e+00,  0.000e+00
+# interval = seconds: 60
+# start_time = Jun 06 2023 01:00:00
+# bad_flag =  -9.990e-29
+# sensor 0 = RRatio temperature, 05606410
+# datcnv_date = Jun 08 2024 18:21:57, SeatermUSB v 1.8.2
+# datcnv_in = C:\Users\Rtgra\Documents\Buoy Systems\ORS\WHOTS\W19\DATA\SBE56\SBE56_6410.xml
+# datcnv_skipover = 0
+# file_type = ascii
+*END*
+
+# Metadata for Sensor Serial Number: 6239
+* <?xml version="1.0"?>
+* <!--DeviceManager-->
+* <SBEDataUploadFile>
+* <ApplicationData>
+* <DeviceInterfaceAppData>
+* <SoftwareVersion>1.8.2</SoftwareVersion>
+* <BuildDate>25-Jul-2018 07:49:42 UTC</BuildDate>
+* </DeviceInterfaceAppData>
+* </ApplicationData>
+* <InstrumentState>
+* <StatusData DeviceType='SBE56' SerialNumber='05606239'>
+*    <DateTime>2024-06-08T06:44:19</DateTime>
+*    <DelayedStart>2023-06-06T01:00:00</DelayedStart>
+*    <EventSummary numEvents='0'/>
+*    <Power>
+*       <MainSupplyVoltage>3.62</MainSupplyVoltage>
+*       </Power>
+*    <ADCRatio>
+*       <Ratio>7087738</Ratio>
+*       </ADCRatio>
+*    <Battery>
+*       <Installed>2023-05-01T19:20:58</Installed>
+*       <Samples>530263</Samples>
+*       </Battery>
+*    <MemorySummary>
+*       <Samples>530263</Samples>
+*       <Bytes>2207744</Bytes>
+*       <BytesFree>64376832</BytesFree>
+*       </MemorySummary>
+*    </StatusData>
+*
+* <HardwareData DeviceType='SBE56' SerialNumber='05606239'>
+*    <Manufacturer>Sea-Bird Electronics, Inc</Manufacturer>
+*    <FirmwareVersion>SBE56 V0.98</FirmwareVersion>
+*    <FirmwareDate>May  7 2019</FirmwareDate>
+*    <PCBAssembly PCBID='101723' AssemblyNum='41688F'/>
+*    <MfgDate>Feb 25 2011</MfgDate>
+*    <PCBType>0</PCBType>
+*    <InternalSensors>
+*       <Sensor id='Water Temperature'>
+*          <type>TEMP0</type>
+*          <SerialNumber>05606239</SerialNumber>
+*          </Sensor>
+*       </InternalSensors>
+*    </HardwareData>
+*
+* <ConfigurationData DeviceType='SBE56' SerialNumber='05606239'>
+*    <Settings
+*       samplePeriod='60' format='1' />
+*    </ConfigurationData>
+*
+* <CalibrationCoefficients DeviceType='SBE56' SerialNumber='05606239'>
+*    <Calibration format='TEMP0' id='Water Temperature'>
+*       <CalDate>2023-02-18</CalDate>
+*       <a0>-1.316669E-03</a0>
+*       <a1>3.559913E-04</a1>
+*       <a2>-7.039647E-06</a2>
+*       <a3>2.108155E-07</a3>
+*       <OFFSET>0.000000E+00</OFFSET>
+*       </Calibration>
+*    </CalibrationCoefficients>
+*
+* <EventSummary DeviceType='SBE56' SerialNumber='05606239'>
+*    <EventList numEvents='0' maxStack='-2'>
+*       </EventList>
+*    </EventSummary>
+*
+* </InstrumentState>
+* <UserHeaderInsert>
+* <![CDATA[
+* ** WHOTS 19 FORWARD 180 DEG - 80 CM BELOW DECK
+* ]]>
+* </UserHeaderInsert>
+# nquan = 4
+# nvalues = 530263
+# units = specified
+# name 0 = scan: Scan Count
+# name 1 = timeJ: Julian Days
+# name 2 = t090C: Temperature [ITS-90, deg C
+# name 3 = flag:   0.000e+00
+# span 0 =          1,     530263
+# span 1 = 157.041667, 525.279155
+# span 2 =    -0.0009,    34.4112
+# span 3 =  0.000e+00,  0.000e+00
+# interval = seconds: 60
+# start_time = Jun 06 2023 01:00:00
+# bad_flag =  -9.990e-29
+# sensor 0 = RRatio temperature, 05606239
+# datcnv_date = Jun 08 2024 18:21:28, SeatermUSB v 1.8.2
+# datcnv_in = C:\Users\Rtgra\Documents\Buoy Systems\ORS\WHOTS\W19\DATA\SBE56\SBE56_6239.xml
+# datcnv_skipover = 0
+# file_type = ascii
+*END*
+
+# Metadata for Sensor Serial Number: 6412
+* <?xml version="1.0"?>
+* <!--DeviceManager-->
+* <SBEDataUploadFile>
+* <ApplicationData>
+* <DeviceInterfaceAppData>
+* <SoftwareVersion>1.8.2</SoftwareVersion>
+* <BuildDate>25-Jul-2018 07:49:42 UTC</BuildDate>
+* </DeviceInterfaceAppData>
+* </ApplicationData>
+* <InstrumentState>
+* <StatusData DeviceType='SBE56' SerialNumber='05606412'>
+*    <DateTime>2024-06-08T06:34:33</DateTime>
+*    <DelayedStart>2023-06-06T01:00:00</DelayedStart>
+*    <EventSummary numEvents='0'/>
+*    <Power>
+*       <MainSupplyVoltage>3.64</MainSupplyVoltage>
+*       </Power>
+*    <ADCRatio>
+*       <Ratio>6927505</Ratio>
+*       </ADCRatio>
+*    <Battery>
+*       <Installed>2023-05-01T19:37:26</Installed>
+*       <Samples>530252</Samples>
+*       </Battery>
+*    <MemorySummary>
+*       <Samples>530252</Samples>
+*       <Bytes>2207232</Bytes>
+*       <BytesFree>64377344</BytesFree>
+*       </MemorySummary>
+*    </StatusData>
+*
+* <HardwareData DeviceType='SBE56' SerialNumber='05606412'>
+*    <Manufacturer>Sea-Bird Electronics, Inc</Manufacturer>
+*    <FirmwareVersion>SBE56 V0.98</FirmwareVersion>
+*    <FirmwareDate>May  7 2019</FirmwareDate>
+*    <PCBAssembly PCBID='101848' AssemblyNum='41688F'/>
+*    <MfgDate>Feb 25 2011</MfgDate>
+*    <PCBType>0</PCBType>
+*    <InternalSensors>
+*       <Sensor id='Water Temperature'>
+*          <type>TEMP0</type>
+*          <SerialNumber>05606412</SerialNumber>
+*          </Sensor>
+*       </InternalSensors>
+*    </HardwareData>
+*
+* <ConfigurationData DeviceType='SBE56' SerialNumber='05606412'>
+*    <Settings
+*       samplePeriod='60' format='1' />
+*    </ConfigurationData>
+*
+* <CalibrationCoefficients DeviceType='SBE56' SerialNumber='05606412'>
+*    <Calibration format='TEMP0' id='Water Temperature'>
+*       <CalDate>2023-02-18</CalDate>
+*       <a0>-1.289726E-03</a0>
+*       <a1>3.514971E-04</a1>
+*       <a2>-6.802816E-06</a2>
+*       <a3>2.061836E-07</a3>
+*       <OFFSET>0.000000E+00</OFFSET>
+*       </Calibration>
+*    </CalibrationCoefficients>
+*
+* <EventSummary DeviceType='SBE56' SerialNumber='05606412'>
+*    <EventList numEvents='0' maxStack='-2'>
+*       </EventList>
+*    </EventSummary>
+*
+* </InstrumentState>
+* <UserHeaderInsert>
+* <![CDATA[
+* ** WHOTS 19 BOW 180 DEG - 100 CM BELOW DECK
+* ]]>
+* </UserHeaderInsert>
+# nquan = 4
+# nvalues = 530252
+# units = specified
+# name 0 = scan: Scan Count
+# name 1 = timeJ: Julian Days
+# name 2 = t090C: Temperature [ITS-90, deg C
+# name 3 = flag:   0.000e+00
+# span 0 =          1,     530252
+# span 1 = 157.041667, 525.271516
+# span 2 =    -0.0031,    35.3966
+# span 3 =  0.000e+00,  0.000e+00
+# interval = seconds: 60
+# start_time = Jun 06 2023 01:00:00
+# bad_flag =  -9.990e-29
+# sensor 0 = RRatio temperature, 05606412
+# datcnv_date = Jun 08 2024 18:22:09, SeatermUSB v 1.8.2
+# datcnv_in = C:\Users\Rtgra\Documents\Buoy Systems\ORS\WHOTS\W19\DATA\SBE56\SBE56_6412.xml
+# datcnv_skipover = 0
+# file_type = ascii
+*END*
+

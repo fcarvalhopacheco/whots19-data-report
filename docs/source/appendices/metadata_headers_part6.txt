@@ -1,0 +1,166 @@
+# Metadata for Sensor Serial Number: 4699
+* Sea-Bird SBE37 Data File:
+* FileName = C:\Users\18082\Desktop\WHOTS-19_mcats\w19_085m_4699.asc
+* Software Version 1.59
+* Temperature SN = 4699
+* Conductivity SN = 4699
+* System UpLoad Time = Jun 10 2024 23:52:47
+** whots-19
+** 85m
+* ds
+* SBE37-SM V 2.6b  SERIAL NO. 4699    06-10-2024  23:52:11
+* not logging: received stop command
+* sample interval = 240 seconds
+* samplenumber = 130678, free = 59972
+* do not transmit real-time data
+* output salinity with each sample
+* do not output sound velocity with each sample
+* store time with each sample
+* number of samples to average = 4
+* serial sync mode disabled
+* wait time after serial sync sampling = 30 seconds
+* internal pump not installed
+* temperature = 19.95 deg C
+
+
+* S>
+* SBE37-SM V 2.6b  4699
+* temperature:  18-apr-23
+*     TA0 = -1.013771e-04
+*     TA1 = 3.010984e-04
+*     TA2 = -4.108606e-06
+*     TA3 = 2.013147e-07
+* conductivity:  18-apr-23
+*     G = -9.962566e-01
+*     H = 1.536107e-01
+*     I = -3.242679e-04
+*     J = 5.198756e-05
+*     CPCOR = -9.570000e-08
+*     CTCOR = 3.250000e-06
+*     WBOTC = -5.814154e-06
+* pressure S/N 10209, range = 1450 psia:  14-apr-23
+*     PA0 = 9.275078e-02
+*     PA1 = 6.895788e-02
+*     PA2 = -2.741533e-09
+*     PTCA0 = -1.988741e+02
+*     PTCA1 = -6.124735e-02
+*     PTCA2 = 6.054749e-03
+*     PTCSB0 = 2.500238e+01
+*     PTCSB1 = -7.250000e-04
+*     PTCSB2 = 0.000000e+00
+*     POFFSET = 0.000000e+00
+* rtc:  18-apr-23
+*     RTCA0 = 9.999895e-01
+*     RTCA1 = 1.587011e-06
+*     RTCA2 = -2.869577e-08
+
+
+* S>
+*END*
+
+# Metadata for Sensor Serial Number: 3791
+* Sea-Bird SBE37 Data File:
+* FileName = C:\Users\danfi\Documents\Work\WHOTS-19_recovery\w19_095m_3791.asc
+* Software Version 1.59
+* Temperature SN = 3791
+* Conductivity SN = 3791
+* System UpLoad Time = Jun 07 2024 18:32:21
+** whots-19
+** 95m
+* ds
+* SBE37-SM V 2.6b  SERIAL NO. 3791    08 Jun 2024  04:30:58
+* not logging: received stop command
+* sample interval = 180 seconds
+* samplenumber = 171890, free = 61126
+* do not transmit real-time data
+* output salinity with each sample
+* do not output sound velocity with each sample
+* store time with each sample
+* number of samples to average = 4
+* reference pressure = 95.0 db
+* serial sync mode disabled
+* wait time after serial sync sampling = 30 seconds
+* internal pump not installed
+* temperature = 22.34 deg C
+
+
+* S>
+* SBE37-SM V 2.6b  3791
+* temperature:  13-apr-23
+*     TA0 = 6.377279e-05
+*     TA1 = 2.602906e-04
+*     TA2 = -1.044213e-06
+*     TA3 = 1.241293e-07
+* conductivity:  13-apr-23
+*     G = -1.017526e+00
+*     H = 1.451710e-01
+*     I = -4.207883e-05
+*     J = 2.717897e-05
+*     CPCOR = -9.570000e-08
+*     CTCOR = 3.250000e-06
+*     WBOTC = -1.284126e-05
+* rtc:  13-apr-23
+*     RTCA0 = 9.999860e-01
+*     RTCA1 = 1.626248e-06
+*     RTCA2 = -3.310045e-08
+
+
+* S>
+*END*
+
+# Metadata for Sensor Serial Number: 2769
+* Sea-Bird SBE37 Data File:
+* FileName = C:\Users\danfi\Documents\Work\WHOTS-19_recovery\w19_105m_2769.asc
+* Software Version 1.59
+* Temperature SN = 2769
+* Conductivity SN = 2769
+* System UpLoad Time = Jun 07 2024 17:29:41
+** whots-19
+** 105m
+* ds
+* SBE37SM-RS232 v3.1  SERIAL NO. 2769  08 Jun 2024 03:29:05
+* vMain =  6.99, vLith =  3.24
+* samplenumber = 129653, free = 429587
+* not logging, stop command
+* sample interval = 240 seconds
+* data format = converted engineering
+* output salinity
+* transmit real-time = no
+* sync mode = no
+* pump installed = no
+
+
+* S>
+* SBE37SM-RS232 V 3.1  2769
+* temperature:  14-Apr-23
+*     TA0 = -6.862328e-05
+*     TA1 = 2.887448e-04
+*     TA2 = -3.347584e-06
+*     TA3 = 1.794880e-07
+* conductivity:  14-Apr-23
+*     G = -9.912924e-01
+*     H = 1.515118e-01
+*     I = -3.536343e-04
+*     J = 5.242402e-05
+*     CPCOR = -9.570000e-08
+*     CTCOR = 3.250000e-06
+*     WBOTC = -5.550443e-06
+* pressure S/N 12364705, range = 1450 psia  30-Dec-22
+*     PA0 = -2.778723e-01
+*     PA1 = 4.402441e-03
+*     PA2 = -2.574813e-11
+*     PTCA0 = 5.248191e+05
+*     PTCA1 = 0.000000e+00
+*     PTCA2 = -0.000000e+00
+*     PTCB0 = 0.000000e+00
+*     PTCB1 = 0.000000e+00
+*     PTCB2 = 0.000000e+00
+*     PTEMPA0 = 0.000000e+00
+*     PTEMPA1 = 0.000000e+00
+*     PTEMPA2 = 0.000000e+00
+*     POFFSET = 0.000000e+00
+
+
+* S>
+*END*
+
