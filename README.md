@@ -1,60 +1,59 @@
-# (IN DEVELOPMENT) Woods Hole - Hawaii Ocean Time-series Site
-[<img src="https://github.com/hot-dogs/whots19-data-report/blob/main/docs/source/_static/_images/new_logo_HOT.png" height="200" />](https://hahana.soest.hawaii.edu/hot/)
+# Woods Hole - Hawaii Ocean Time-series Site
 
+[<img src="https://github.com/hot-dogs/whots19-data-report/blob/main/docs/source/_static/_images/new_logo_HOT.png" height="200" />](https://hahana.soest.hawaii.edu/hot/)
 
 [![Documentation Status](https://readthedocs.org/projects/whots19-data-report/badge/?version=latest)](https://whots-annual-report.readthedocs.io/projects/whots19-data-report/en/latest/?badge=latest)
 [![DOI](https://zenodo.org/badge/doi/xx.xxxx/zenodo.xxxxxx.svg)](https://doi.org/xx.xxxx/zenodo.xxxxxx)
 [![CITATION.cff](https://github.com/hot-dogs/whots19-data-report/actions/workflows/cff-validator.yml/badge.svg?branch=main)](https://github.com/hot-dogs/whots19-data-report/actions/workflows/cff-validator.yml)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 
+## Documentation
 
-## Documentation 
-[*Hydrographic observations at the Woods Hole Oceanographic Institution Hawaii
-Ocean Time-Series Site (WHOTS): 2023 - 2024, Data Report #19*](http://whots19-data-report.readthedocs.io/)
+[_Hydrographic observations at the Woods Hole Oceanographic Institution Hawaii
+Ocean Time-Series Site (WHOTS): 2023 - 2024, Data Report #19_](http://whots19-data-report.readthedocs.io/)
 
 ## Abstract
 
 In 2003, [Robert Weller](https://www.whoi.edu/profile/rweller/) ([Woods Hole
 Oceanographic Institution [WHOI]](https://www.whoi.edu))
-, [Albert Plueddemann](https://www.whoi.edu/profile/aplueddemann/) 
+, [Albert Plueddemann](https://www.whoi.edu/profile/aplueddemann/)
 ([WHOI](https://www.whoi.edu)), and
 [Roger Lukas](http://www.soest.hawaii.edu/oceanography/faculty/rlukas/)
-([The University of Hawaii [UH]](https://manoa.hawaii.edu)) proposed to establish 
+([The University of Hawaii [UH]](https://manoa.hawaii.edu)) proposed to establish
 a [long-term surface mooring at the Hawaii Ocean Time-series (HOT)](http://www.soest.hawaii.edu/whots/)
 [Station ALOHA (22°45’N, 158°W)](https://hahana.soest.hawaii.edu/stationaloha/)
 to provide sustained, high-quality air-sea fluxes and the associated upper
 ocean response as a coordinated part of the HOT program, and as an element of
 the global array of ocean reference stations supported by the National Oceanic
-and Atmospheric Administration’s (NOAA) Office of Climate Observation. 
+and Atmospheric Administration’s (NOAA) Office of Climate Observation.
 
-The WHOTS-19 mooring was deployed on 
-June 7, 2023
- ([WHOTS-19 cruise](http://www.soest.hawaii.edu/whots/wh19_dep.html)) 
-and was recovered on June { (cookiecutter.current_whots_recovery_date|string)[1:2]}},  2024 
-([WHOTS-20 cruise](http://www.soest.hawaii.edu/whots/wh20_dep.html)). 
-The cruises were aboard the R/V Oscar Elton Settle. The WHOTS-20 mooring was 
-deployed on June  2, 2024, during the 
-[WHOTS-20 cruise](http://www.soest.hawaii.edu/whots/wh20_dep.html) and was 
-recovered on tember e, 2025. 
+The WHOTS-19 mooring was deployed on June 17, 2023 ([WHOTS-19
+cruise](http://www.soest.hawaii.edu/whots/wh19_dep.html)) and was recovered on
+June 6, 2024 ([WHOTS-20
+cruise](http://www.soest.hawaii.edu/whots/wh20_dep.html)). The cruises were
+aboard the R/V Oscar Elton Sette. The WHOTS-20 mooring was deployed on June 2,
+2024, during the [WHOTS-20
+cruise](http://www.soest.hawaii.edu/whots/wh20_dep.html) and was recovered on
+September 28, 2025.
 
-This report documents and describes the oceanographic observations made on the 
-WHOTS-19 mooring for nearly one year and ten months and from shipboard measurements
-during the two cruises when the mooring was deployed and recovered. 
-[Sections II](https://whots-annual-report.readthedocs.io/projects/whots19-data-report/en/latest/2_section.html) 
-and [III](https://whots-annual-report.readthedocs.io/projects/whots19-data-report/en/latest/3_section.html) 
-include a detailed description of the cruises and the mooring, respectively. 
-Sampling and processing procedures of the hydrographic casts, thermosalinograph, 
+This report documents and describes the oceanographic observations made on the
+WHOTS-19 mooring for nearly one year from shipboard measurements
+during the two cruises when the mooring was deployed and recovered.
+[Sections II](https://whots-annual-report.readthedocs.io/projects/whots19-data-report/en/latest/2_section.html)
+and [III](https://whots-annual-report.readthedocs.io/projects/whots19-data-report/en/latest/3_section.html)
+include a detailed description of the cruises and the mooring, respectively.
+Sampling and processing procedures of the hydrographic casts, thermosalinograph,
 and shipboard ADCP data collected during these cruises are described in
-[Section IV](https://whots-annual-report.readthedocs.io/projects/whots19-data-report/en/latest/4_section.html). 
-[Section V](https://whots-annual-report.readthedocs.io/projects/whots19-data-report/en/latest/5_section.html) 
-includes the processing procedures for the data collected by the moored 
-instruments: SeaCATs, MicroCATs, Moored ADCPs and VMCM. Plots of the resulting 
+[Section IV](https://whots-annual-report.readthedocs.io/projects/whots19-data-report/en/latest/4_section.html).
+[Section V](https://whots-annual-report.readthedocs.io/projects/whots19-data-report/en/latest/5_section.html)
+includes the processing procedures for the data collected by the moored
+instruments: SeaCATs, MicroCATs, Moored ADCPs and VMCM. Plots of the resulting
 data and preliminary analysis ar presented in [Section VI](https://whots-annual-report.readthedocs.io/projects/whots19-data-report/en/latest/6_section.html).
-
 
 ## Citing
 
 - `APA`
+
 ```
 Carvalho Pacheco, F., Santiago-Mandujano, F., Potemra, J. T., Plueddemann, A. J., Weller, R. A., Fitzgerald, D., & Galbraith, N. R. (2025). Hydrographic Observations at the Woods Hole Oceanographic Institution Hawaii Ocean Time-Series Site (WHOTS): 2023 - 2024, Data Report #19. School of Ocean and Earth Science and Technology (SOEST), Department of Oceanography, University of Hawai‘i at Mānoa, Honolulu, HI. https://doi.org/xx.xxx/zenodo.xxxxx
 ```
@@ -75,9 +74,9 @@ Carvalho Pacheco, F., Santiago-Mandujano, F., Potemra, J. T., Plueddemann, A. J.
   Monitoring and Observing (GOMO) Program through the Cooperative Institute
   for the North Atlantic Region (CINAR) under Cooperative Agreement
   NA14OAR4320158. NOAA CPO FundRef number 100007298 to the Woods Hole
-  Oceanographic Institution, and by National Science Foundation grants 
-  OCE-0327513,OCE-0752606, OCE-0926766, OCE-1260164 and OCE-1756517 to the 
-  University of Hawaii for the Hawaii Ocean Time-series. 
+  Oceanographic Institution, and by National Science Foundation grants
+  OCE-0327513,OCE-0752606, OCE-0926766, OCE-1260164, OCE-1756517 and OCE-2241005
+  to the University of Hawaii for the Hawaii Ocean Time-series.
   This is SOEST contribution number xXxXxX.}
 
 }
@@ -122,15 +121,20 @@ Carvalho Pacheco, F., Santiago-Mandujano, F., Potemra, J. T., Plueddemann, A. J.
   [OCE-0926766](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0926766&HistoricalAwards=false)
   ,
   [OCE-1260164](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1260164&HistoricalAwards=false)
-  and
+  ,
   [OCE-1756517](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1756517&HistoricalAwards=false)
+  ,
+  and
+  [OCE-2241005](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2241005)
   to the University of Hawaii for the Hawaii Ocean Time-series.
 
 - This is SOEST contribution number xxxxx.
 
-## Contact 
+## Contact
+
 - You can contact us by emailing <hotdata@hawaii.edu>
 - Or open a new issue [here](https://github.com/hot-dogs/whots19-data-report/issues)
 
 ## References
+
 [Check here](https://whots-annual-report.readthedocs.io/projects/whots19-data-report/en/latest/references.html)
