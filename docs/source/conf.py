@@ -14,17 +14,17 @@ import os
 import sys
 from datetime import datetime
 
-sys.path.insert(0, os.path.abspath('.'))
+sys.path.insert(0, os.path.abspath("."))
 
 # -- Project information -----------------------------------------------------
 
-project = 'WHOTS-19'
-copyright = f'{datetime.now().year}, Hawaii Ocean Time-series (HOT)'
-author = 'Fernando Carvalho Pacheco'
+project = "WHOTS-19"
+copyright = f"{datetime.now().year}, Hawaii Ocean Time-series (HOT)"
+author = "Fernando Carvalho Pacheco"
 
 # The full version, including alpha/beta/rc tags
-release = '0.0.1'
-version = '0.0.1'
+release = "0.0.1"
+version = "0.0.1"
 
 # -- General configuration ---------------------------------------------------
 extensions = [
@@ -38,9 +38,9 @@ extensions = [
     "sphinxcontrib.bibtex",
 ]
 
-bibtex_bibfiles = ['latex_templates/refs.bib']
-bibtex_default_style = 'unsrt'
-bibtex_reference_style = 'author_year'
+bibtex_bibfiles = ["latex_templates/refs.bib"]
+bibtex_default_style = "unsrt"
+bibtex_reference_style = "author_year"
 
 myst_url_schemes = ["http", "https"]
 
@@ -60,20 +60,17 @@ autosectionlabel_prefix_document = True
 autosectionlabel_maxdepth = 3
 
 # Add any paths that contain templates here, relative to this directory.
-templates_path = ['_templates']
-source_suffix = {
-    '.rst': 'restructuredtext',
-    '.md': 'markdown'
-}
-master_doc = 'index'
+templates_path = ["_templates"]
+source_suffix = {".rst": "restructuredtext", ".md": "markdown"}
+master_doc = "index"
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = ['_build', 'build', 'Thumbs.db', '.DS_Store', '.env', '.rst']
+exclude_patterns = ["_build", "build", "Thumbs.db", ".DS_Store", ".env", ".rst"]
 
 # The name of the Pygments (syntax highlighting) style to use.
-pygments_style = 'sphinx'
+pygments_style = "sphinx"
 
 # -- Options for HTML output -------------------------------------------------
 
@@ -87,7 +84,7 @@ html_title = "Data Report #19"
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['_static']
+html_static_path = ["_static"]
 
 html_theme_options = {
     "repository_url": "https://github.com/hot-dogs/whots19-data-report",
@@ -100,7 +97,7 @@ html_theme_options = {
 }
 
 # -- Options for LaTeX output ---------------------------------------------
-latex_engine = 'pdflatex'
+latex_engine = "pdflatex"
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
@@ -112,35 +109,31 @@ latex_additional_files = [
 ]
 
 latex_elements = {
-    'extraclassoptions': 'openany,oneside',
-    'papersize': 'a4paper',
+    "extraclassoptions": "openany,oneside",
+    "papersize": "a4paper",
     # Sonny, Lenny, Glenn, Conny, Rejne, Bjarne and Bjornstrup # 'fncychap': '\\usepackage[Lenny]{fncychap}',
-    'fncychap': '\\usepackage[Bjornstrup]{fncychap}',
-    'fontpkg': '\\usepackage{amsmath,amsfonts,amssymb,amsthm}',
-    'figure_align': 'htbp',
-    'pointsize': '10pt',
-
+    "fncychap": "\\usepackage[Bjornstrup]{fncychap}",
+    "fontpkg": "\\usepackage{amsmath,amsfonts,amssymb,amsthm}",
+    "figure_align": "htbp",
+    "pointsize": "10pt",
     # ===================== PREAMBLE ======================================
-    'preamble': r'''
+    "preamble": r"""
         \input{mystyle.sty}
         \usepackage[notocbib]{apacite}
-    ''',
+    """,
     # ============== COVER PAGE + TABLE OF CONTENTS  ======================
-    'maketitle': r''' 
+    "maketitle": r""" 
         \input{maketitle.sty}
-    ''',
+    """,
     # Latex figure (float) alignment
     # 'figure_align': 'htbp',
-    'sphinxsetup': \
-        'hmargin={0.7in,0.7in}, vmargin={1in,1in}, \
+    "sphinxsetup": "hmargin={0.7in,0.7in}, vmargin={1in,1in}, \
         verbatimwithframe=true, \
         TitleColor={rgb}{0,0,0}, \
         HeaderFamily=\\rmfamily\\bfseries, \
         InnerLinkColor={rgb}{0,0,1}, \
-        OuterLinkColor={rgb}{0,0,1}',
-
-    'tableofcontents': ' ',
-
+        OuterLinkColor={rgb}{0,0,1}",
+    "tableofcontents": " ",
 }
 
 # Grouping the document tree into LaTeX files. List of tuples
@@ -149,9 +142,13 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-    ('index', 'whots19-data-report.tex',
-     u'WHOTS-19: Data Report',
-     u'Fernando Carvalho Pacheco', 'manual'),
+    (
+        "index",
+        "whots19-data-report.tex",
+        "WHOTS-19: Data Report",
+        "Fernando Carvalho Pacheco",
+        "manual",
+    ),
 ]
 # If false, no module index is generated.
 latex_domain_indices = True
@@ -159,11 +156,10 @@ latex_domain_indices = True
 # -- Options for Epub output ----------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = u'whots-epub-test'
-epub_author = u'Fernando Carvalho Pacheco'
-epub_publisher = u'Fernando Carvalho Pacheco'
-epub_copyright = f'2025-05-20-{datetime.now().year}, Fernando Carvalho Pacheco'
+epub_title = "whots-epub-test"
+epub_author = "Fernando Carvalho Pacheco"
+epub_publisher = "Fernando Carvalho Pacheco"
+epub_copyright = f"2025-12-20-{datetime.now().year}, Fernando Carvalho Pacheco"
 
 # A list of files that should not be packed into the epub file.
-epub_exclude_files = ['search.html']
-
+epub_exclude_files = ["search.html"]

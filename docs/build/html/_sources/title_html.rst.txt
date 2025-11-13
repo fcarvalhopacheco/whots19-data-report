@@ -55,7 +55,7 @@
 
 - To `Kelsey Maloney <https://www.linkedin.com/in/kelsey-maloney-4a18291a4>`_,
   `Tully Rohrer <https://hahana.soest.hawaii.edu/hot/staff1.html>`_,
-  `Noah Howins <https://www.soest.hawaii.  edu/oceanography/profile/Howins-Noah/>`_,
+  `Noah Howins <https://www.soest.hawaii.edu/oceanography/profile/Howins-Noah/>`_,
   `Ryan Tabata <https://www.linkedin.com/in/ryan-tabata-69215486/>`_, and
   `James Harris <https://www.linkedin.com/in/james-harris-661170174/>`_
   for their technical assistance with the moored and shipboard instrumentation;

@@ -7,7 +7,7 @@ sampling bottles for calibration water samples. Furthermore, the ship Oscar
 Sette came equipped with a thermosalinograph system that provided a continuous
 depiction of the near-surface layer's temperature and salinity. However
 near-surface temperatures were not available during the WHOTS-20 cruise,
-because the thermosalinograph remote temperature sensor was not functional. 
+because the thermosalinograph remote temperature sensor was not functional.
 Horizontal
 currents over the depth range of 30-700 m were measured from the shipboard 75
 kHz Ocean Surveyor (OS75) ADCP (narrowband) with a vertical resolution of 16m
@@ -19,7 +19,6 @@ Data gaps occurred when the system was shut down temporarily during
 communications with the acoustic releases used for the moorings during both
 cruises. Periods of missing data between 300 and 450 m in the broadband ADCP
 were apparent due to the lack of scattering material in the water.
-
 
 ## Conductivity, Temperature, and Depth (CTD) Profiling
 
@@ -74,7 +73,7 @@ Practical Salinity(SA) scale (PSS-78). Oxygen is reported in umol kg-1.
 
 #### Pressure
 
-The pressure calibration strategy for CTD pressure transducers #154451 
+The pressure calibration strategy for CTD pressure transducers #154451
 and #53702 used
 during WHOTS-19 and #101430 used during WHOTS-20 cruise employed a
 high-quality quartz pressure transducer as a transfer standard. Periodic
@@ -84,7 +83,7 @@ offset determined when the CTD first enters the water on each cast. Also, a
 span correction determined from bench tests on the sensor against the transfer
 standard was applied. These procedures and corrections are thoroughly
 documented in the HOT-2022 data report {cite}`Fujieki2024` and HOT-2023
-data report `{cite}`Fujieki?????``
+data report {cite}`Fujieki2025`.
 
 #### Temperature/Conductivity
 
@@ -92,7 +91,7 @@ Sea-Bird SBE-3-Plus temperature and SBE 4C conductivity transducers were used
 during WHOTS-19 and -20 cruises. These sensors' history and performance have
 been monitored during HOT cruises, and calibrations and drift corrections
 applied during WHOTS cruises are thoroughly documented in the HOT-2022 data
-report {cite}`Fujieki2024` and HOT-2023 data report `{cite}`Fukieki???``
+report {cite}`Fujieki2024` and HOT-2023 data report {cite}`Fujieki2025`
 
 #### Dissolved Oxygen
 
@@ -103,10 +102,8 @@ WHOTS-19 cruise, which used the same primary oxygen sensor. The CTD empirical
 calibration was performed using oxygen water samples and the procedure from
 {cite}`Owens1985`. See {cite}`Tupas1996` for details on these calibrations
 procedures. The oxygen data from WHOTS-20 were calibrated using calibration
-coefficients obtained during the HOT-350 cruise conducted on April 27 to 
+coefficients obtained during the HOT-350 cruise conducted on April 27 to
 May 1, 2024 before the WHOTS-20 cruise, which used the same oxygen sensors.
-
-
 
 ## Water Sampling and Analysis
 

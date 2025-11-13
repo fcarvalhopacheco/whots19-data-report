@@ -73,8 +73,8 @@ June 06, 2024 ([WHOTS-20
 cruise](http://www.soest.hawaii.edu/whots/wh20_dep.html)). Both cruises were
 carried out aboard the R/V Oscar Elton Sette. The WHOTS-20 mooring was deployed
 on June 02, 2024, during the [WHOTS-20
-cruise](http://www.soest.hawaii.edu/whots/wh20_dep.html) and is scheduled for
-recovery in September 2025.
+cruise](http://www.soest.hawaii.edu/whots/wh20_dep.html) and was recovered on
+September 28, 2025.
 
 This report documents and describes the oceanographic observations made on the
 WHOTS-19 mooring for nearly one year and from shipboard
