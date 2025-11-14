@@ -80,6 +80,7 @@ instance/
 # Sphinx documentation
 docs/build/
 build/
+~/Documents/workspace/1.git/4.whots/whots19-data-report/docs/build/*
 
 # PyBuilder
 target/
