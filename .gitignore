@@ -81,6 +81,7 @@ instance/
 docs/build/
 build/
 ~/Documents/workspace/1.git/4.whots/whots19-data-report/docs/build/*
+~/Documents/workspace/1.git/4.whots/whots19-data-report/docs/build/html
 
 # PyBuilder
 target/
