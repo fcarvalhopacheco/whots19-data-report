@@ -48,7 +48,7 @@ and shipboard ADCP data collected during these cruises are described in
 [Section V](https://whots-annual-report.readthedocs.io/projects/whots19-data-report/en/latest/5_section.html)
 includes the processing procedures for the data collected by the moored
 instruments: SeaCATs, MicroCATs, Moored ADCPs and VMCM. Plots of the resulting
-data and preliminary analysis ar presented in [Section VI](https://whots-annual-report.readthedocs.io/projects/whots19-data-report/en/latest/6_section.html).
+data and preliminary analysis are presented in [Section VI](https://whots-annual-report.readthedocs.io/projects/whots19-data-report/en/latest/6_section.html).
 
 ## Citing
 
