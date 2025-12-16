@@ -3,7 +3,7 @@
 [<img src="https://github.com/hot-dogs/whots19-data-report/blob/main/docs/source/_static/_images/new_logo_HOT.png" height="200" />](https://hahana.soest.hawaii.edu/hot/)
 
 [![Documentation Status](https://readthedocs.org/projects/whots19-data-report/badge/?version=latest)](https://whots-annual-report.readthedocs.io/projects/whots19-data-report/en/latest/?badge=latest)
-[![DOI](https://zenodo.org/badge/doi/xx.xxxx/zenodo.xxxxxx.svg)](https://doi.org/xx.xxxx/zenodo.xxxxxx)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.17957338.svg)](https://doi.org/10.5281/zenodo.17957338)
 [![CITATION.cff](https://github.com/hot-dogs/whots19-data-report/actions/workflows/cff-validator.yml/badge.svg?branch=main)](https://github.com/hot-dogs/whots19-data-report/actions/workflows/cff-validator.yml)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 
@@ -48,14 +48,14 @@ and shipboard ADCP data collected during these cruises are described in
 [Section V](https://whots-annual-report.readthedocs.io/projects/whots19-data-report/en/latest/5_section.html)
 includes the processing procedures for the data collected by the moored
 instruments: SeaCATs, MicroCATs, Moored ADCPs and VMCM. Plots of the resulting
-data and preliminary analysis ar presented in [Section VI](https://whots-annual-report.readthedocs.io/projects/whots19-data-report/en/latest/6_section.html).
+data and preliminary analysis are presented in [Section VI](https://whots-annual-report.readthedocs.io/projects/whots19-data-report/en/latest/6_section.html).
 
 ## Citing
 
 - `APA`
 
 ```
-Carvalho Pacheco, F., Santiago-Mandujano, F., Potemra, J. T., Plueddemann, A. J., Weller, R. A., Fitzgerald, D., & Galbraith, N. R. (2025). Hydrographic Observations at the Woods Hole Oceanographic Institution Hawaii Ocean Time-Series Site (WHOTS): 2023 - 2024, Data Report #19. School of Ocean and Earth Science and Technology (SOEST), Department of Oceanography, University of Hawai‘i at Mānoa, Honolulu, HI. https://doi.org/xx.xxx/zenodo.xxxxx
+Carvalho Pacheco, F., Santiago-Mandujano, F., Potemra, J. T., Plueddemann, A. J., Weller, R. A., Fitzgerald, D., & Galbraith, N. R. (2025). Hydrographic Observations at the Woods Hole Oceanographic Institution Hawaii Ocean Time-Series Site (WHOTS): 2023 - 2024, Data Report #19. School of Ocean and Earth Science and Technology (SOEST), Department of Oceanography, University of Hawai‘i at Mānoa, Honolulu, HI. https://doi.org/10.5281/zenodo.17957338
 ```
 
 - `Bibtex`
@@ -63,7 +63,7 @@ Carvalho Pacheco, F., Santiago-Mandujano, F., Potemra, J. T., Plueddemann, A. J.
 ```bibtex
 @techreport{Carvalho_Pacheco_Hydrographic_Observations_at_2022,
   author = {Carvalho Pacheco, Fernando and Santiago-Mandujano, Fernando and Potemra, James T. and Plueddemann, Albert J. and Weller, Robert A. and Fitzgerald, Daniel and Galbraith, Nancy R.},
-  doi = {10.xxxx/zenodo.xxxxxxxx},
+  doi = {10.5281/zenodo.17957338},
   institution = {School of Ocean and Earth Science and Technology (SOEST), Department of Oceanography, University of Hawai‘i at Mānoa, Honolulu, HI},
   title = { {Hydrographic Observations at the Woods Hole Oceanographic Institution Hawaii Ocean Time-Series Site (WHOTS): 2023 - 2024, Data Report #19} },
   url = {http://whots19-data-report.readthedocs.io/},
@@ -77,8 +77,7 @@ Carvalho Pacheco, F., Santiago-Mandujano, F., Potemra, J. T., Plueddemann, A. J.
   Oceanographic Institution, and by National Science Foundation grants
   OCE-0327513,OCE-0752606, OCE-0926766, OCE-1260164, OCE-1756517 and OCE-2241005
   to the University of Hawaii for the Hawaii Ocean Time-series.
-  This is SOEST contribution number xXxXxX.}
-
+  This is SOEST contribution number 12056.}
 }
 ```
 
@@ -91,13 +90,6 @@ Carvalho Pacheco, F., Santiago-Mandujano, F., Potemra, J. T., Plueddemann, A. J.
 - Thanks are due to all the personnel of the
   [Upper Ocean Processes Group (UOP)](http://uop.whoi.edu) at WHOI who prepared
   the WHOTS buoy’s instrumentation and mooring;
-
-- To [Kelsey Maloney](https://www.linkedin.com/in/kelsey-maloney-4a18291a4),
-  [Tully Rohrer](https://hahana.soest.hawaii.edu/hot/staff1.html),
-  [Noah Howins](https://www.soest.hawaii.edu/oceanography/profile/Howins-Noah/),
-  [Ryan Tabata](https://www.linkedin.com/in/ryan-tabata-69215486/), and
-  [James Harris](https://www.linkedin.com/in/james-harris-661170174/)
-  for their technical assistance with the moored and shipboard instrumentation;
 
 - We gratefully acknowledge the support from the colleagues at
   [Sea-Bird](https://www.seabird.com) to maintain the quality of the CTD data.
@@ -128,7 +120,7 @@ Carvalho Pacheco, F., Santiago-Mandujano, F., Potemra, J. T., Plueddemann, A. J.
   [OCE-2241005](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2241005)
   to the University of Hawaii for the Hawaii Ocean Time-series.
 
-- This is SOEST contribution number xxxxx.
+- This is SOEST contribution number 12056.
 
 ## Contact
 
