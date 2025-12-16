@@ -54,7 +54,7 @@ keywords:
   - physical oceanography
 repository-code: https://github.com/hot-dogs/whots19-data-report
 url: http://whots19-data-report.readthedocs.io/
-doi: xx.xxxx/zenodo.xxxxxxxxx
+doi: 10.5281/zenodo.17957338
 preferred-citation:
   type: report
   authors:
@@ -105,9 +105,9 @@ preferred-citation:
   date-released: 2025-05-20
   number: 12056
   license: CC-BY-4.0
-  collection-doi: xx.xxxx/zenodo.xxxxxxx
+  collection-doi: 10.5281/zenodo.17957337
   url: http://whots19-data-report.readthedocs.io/
-  doi: xx.xxxxx/zenodo.xxxxxxx
+  doi: 10.5281/zenodo.17957338
   publisher:
     name: "School of Ocean and Earth Science and Technology (SOEST)"
   notes: "This publication is based upon observations from the WHOI-Hawaii Ocean Time-series Site (WHOTS) mooring, 
@@ -118,7 +118,7 @@ preferred-citation:
   of Hawaii for the Hawaii Ocean Time-series. This is SOEST contribution number 12056"
   identifiers:
     - type: doi
-      value: "xx.xxxx/zenodo.xxxxxxx"
+      value: "10.5281/zenodo.17957337"
       description: The concept DOI of the work
 references:
   - type: grant
