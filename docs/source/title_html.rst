@@ -87,7 +87,7 @@
   `OCE-1756517 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1756517&HistoricalAwards=false>`_
   to the University of Hawaii for the Hawaii Ocean Time-series.
 
-- This is SOEST contribution number xXxXxXxX.
+- This is SOEST contribution number 12056.
 
 |
 

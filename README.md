@@ -77,7 +77,7 @@ Carvalho Pacheco, F., Santiago-Mandujano, F., Potemra, J. T., Plueddemann, A. J.
   Oceanographic Institution, and by National Science Foundation grants
   OCE-0327513,OCE-0752606, OCE-0926766, OCE-1260164, OCE-1756517 and OCE-2241005
   to the University of Hawaii for the Hawaii Ocean Time-series.
-  This is SOEST contribution number xXxXxX.}
+  This is SOEST contribution number 12056.}
 
 }
 ```
@@ -128,7 +128,7 @@ Carvalho Pacheco, F., Santiago-Mandujano, F., Potemra, J. T., Plueddemann, A. J.
   [OCE-2241005](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2241005)
   to the University of Hawaii for the Hawaii Ocean Time-series.
 
-- This is SOEST contribution number xxxxx.
+- This is SOEST contribution number 12056.
 
 ## Contact
 
