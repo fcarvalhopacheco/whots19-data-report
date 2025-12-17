@@ -79,7 +79,7 @@ Two SBE-37 MicroCATs were at 1.55m measuring at every 300s (See
 ```
 
 Instrumentation provided by UH for the WHOTS-19 mooring included 18 Sea-Bird
-SBE-37 MicroCATs, of which 9 were pressure-equipped. Two of them were installed 
+SBE-37 MicroCATs, of which 9 were pressure-equipped. Two of them were installed
 approximately 39 m above the anchor. All MicroCATs measured
 temperature and conductivity and were deployed with antifoulant capsules to
 minimize biofouling. In addition, UH deployed two upward-looking RDI Workhorse
@@ -87,7 +87,7 @@ Acoustic Doppler Current Profilers (ADCPs) operating at 300 kHz and 600 kHz,
 respectively. WHOI contributed two Vector Measuring Current Meters (VMCMs), an
 Acoustic Receiver, and all required deep mooring hardware. The ADCPs were
 mounted at nominal depths of 47.5 m and 125 m, and the VMCMs were positioned at
-10 m and 30 m. 
+10 m and 30 m.
 
 The {numref}`mooring_subsurface` table provides detailed metadata for the
 WHOTS-19 subsurface instrumentation, including nominal depths, serial numbers,
@@ -98,45 +98,37 @@ placing an ice pack against each temperature sensor
 the ADCPs, a 20-second manual transducer rub was performed to generate a
 recognizable signal spike ({numref}`table-9`, {numref}`table-10`).
 
-```{raw} latex
-\begin{landscape}
-```
-
-```{table} WHOTS-19 mooring subsurface instrument deployment. All times are in UTC (MM/DD/YY hh:mm:ss). Columns: SN = Serial Number, Inst = Instrument, Z (m) = Depth in meters, P SN = Pressure Sensor Serial Number, Δt (s) = Sample Interval in seconds, AR = Acoustic Receiver, MC = MicroCAT, VMCM = Vector Measuring Current Meter, ADCP = Acoustic Doppler Current Profiler.
+```{table} WHOTS-19 mooring subsurface instrument deployment. Times are UTC (MM/DD/YY hh:mm). Columns: SN = Serial Number, Inst = Instrument, Z = Depth (m), P SN = Pressure Sensor Serial Number, Δt = Sample Interval (s), CS = Cold Spike.
 :name: mooring_subsurface
 :widths: auto
-:class: longtable
 :align: center
 
-|   SN   |    Instrument     |      Z (m)      | Pressure SN | Δt (s) | Start Logging Data |   Cold Spike Begin    |    Cold Spike End     |   Time in Water   |
-| :----: | :---------------: | :-------------: | :---------: | :----: | :----------------: | :-------------------: | :-------------------: | :---------------: |
-|  3382  |        MC         |        7        |     N/A     |  180   | 06/13/23 23:59:59  |   06/16/23 00:00:00   |   06/16/23 00:30:00   | 06/16/23 21:00:00 |
-|  0035  |       VMCM        |       10        |     N/A     |   60   | 06/08/23 00:21:29  |  06/16/23 20:23:00\*  |          N/A          | 06/16/23 20:28:00 |
-|  6892  |        MC         |       15        |   2651234   |   75   | 06/13/23 23:59:59  |   06/16/23 00:00:00   |   06/16/23 00:30:00   | 06/16/23 20:25:00 |
-|  4663  |        MC         |       25        |     N/A     |  180   | 06/13/23 23:59:59  |   06/16/23 00:00:00   |   06/16/23 00:30:00   | 06/16/23 20:19:00 |
-| 112497 | Acoustic Receiver |       25        |     N/A     |  N/A   | 06/12/23 19:00:00  |          N/A          |          N/A          | 06/16/23 20:19:00 |
-|  0058  |       VMCM        |       30        |     N/A     |   60   | 06/08/23 00:21:29  |  06/16/23 20:13:00\*  |          N/A          | 06/16/23 20:16:00 |
-|  3633  |        MC         |       35        |     N/A     |  180   | 06/13/23 23:59:59  |   06/16/23 00:00:00   |   06/16/23 00:30:00   | 06/16/23 20:12:00 |
-|  3381  |        MC         |       40        |     N/A     |  180   | 06/13/23 23:59:59  |   06/16/23 00:00:00   |   06/16/23 00:30:00   | 06/16/23 20:09:00 |
-|  3668  |        MC         |       45        |    5579     |  180   | 06/16/23 00:01:30  |   06/16/23 01:40:00   |   06/16/23 02:05:00   | 06/16/23 20:06:00 |
-| 13917  |   600 kHz ADCP    |      47.5       |     N/A     |  600   | 06/15/23 23:59:00  | See {numref}`table-9` | See {numref}`table-9` | 06/16/23 21:23:00 |
-|  3619  |        MC         |       50        |     N/A     |  180   | 06/13/23 23:59:59  |   06/16/23 00:00:00   |   06/16/23 00:30:00   | 06/16/23 21:24:00 |
-|  3620  |        MC         |       55        |     N/A     |  180   | 06/13/23 23:59:59  |   06/16/23 00:00:00   |   06/16/23 00:30:00   | 06/16/23 21:27:00 |
-|  3621  |        MC         |       65        |     N/A     |  180   | 06/13/23 23:59:59  |   06/16/23 00:00:00   |   06/16/23 00:30:00   | 06/16/23 21:29:00 |
-|  9988  |        MC         |       75        |     N/A     |  180   | 06/13/23 23:59:59  |   06/16/23 00:00:00   |   06/16/23 00:30:00   | 06/16/23 21:31:00 |
-|  4699  |        MC         |       85        |    10209    |  240   | 06/13/23 23:59:59  |   06/16/23 00:00:00   |   06/16/23 00:30:00   | 06/16/23 21:32:00 |
-|  3791  |        MC         |       95        |     N/A     |  180   | 06/16/23 02:00:00  |   06/16/23 02:06:00   |   06/16/23 02:30:00   | 06/16/23 21:34:00 |
-|  2769  |        MC         |       105       |  12364705   |  240   | 06/13/23 23:59:59  |   06/16/23 00:00:00   |   06/16/23 00:30:00   | 06/16/23 21:36:00 |
-| 25352  |     MC (New)      |       120       |   5983494   |  240   | 06/13/23 23:59:59  |   06/16/23 00:00:00   |   06/16/23 00:30:00   | 06/16/23 21:47:00 |
-|  7637  |   300 kHz ADCP    |       125       |     N/A     |  300   | 06/15/23 23:59:00  | See {numref}`table-9` | See {numref}`table-9` | 06/16/23 21:47:00 |
-| 25444  |     MC (New)      |       135       |  12152941   |  240   | 06/13/23 23:59:59  |   06/16/23 00:00:00   |   06/16/23 00:30:00   | 06/16/23 21:49:00 |
-|  4701  |        MC         |       155       |    10211    |  240   | 06/13/23 23:59:59  |   06/16/23 00:00:00   |   06/16/23 00:30:00   | 06/16/23 21:51:00 |
-| 11381  |        MC         | 39 m off Anchor |   2146836   |  300   | 06/16/23 00:01:00  |   06/16/23 00:00:00   |   06/16/23 00:30:00   | 06/17/23 00:02:41 |
-| 11380  |        MC         | 39 m off Anchor |   2146835   |  300   | 06/16/23 00:01:00  |   06/16/23 00:00:00   |   06/16/23 00:30:00   | 06/17/23 00:02:41 |
-```
+| **SN** | **Inst** | **Z** |  **P**   | **Δt** |   **Start**    |    **CS Beg**     |    **CS End**     |   **In**    |
+| :----: | :------: | :---: | :------: | :----: | :------------: | :---------------: | :---------------: | :---------: |
+|  3382  |    MC    |   7   |   N/A    |  180   | 06/13/23 23:59 |    06/16 00:00    |    06/16 00:30    | 06/16 21:00 |
+|  0035  |   VMCM   |  10   |   N/A    |   60   | 06/08/23 00:21 |   06/16 20:23\*   |        N/A        | 06/16 20:28 |
+|  6892  |    MC    |  15   | 2651234  |   75   | 06/13/23 23:59 |    06/16 00:00    |    06/16 00:30    | 06/16 20:25 |
+|  4663  |    MC    |  25   |   N/A    |  180   | 06/13/23 23:59 |         "         |         "         | 06/16 20:19 |
+| 112497 |    AR    |  25   |   N/A    |  N/A   | 06/12/23 19:00 |        N/A        |        N/A        | 06/16 20:19 |
+|  0058  |   VMCM   |  30   |   N/A    |   60   | 06/08/23 00:21 |   06/16 20:13\*   |        N/A        | 06/16 20:16 |
+|  3633  |    MC    |  35   |   N/A    |  180   | 06/13/23 23:59 |         "         |         "         | 06/16 20:12 |
+|  3381  |    MC    |  40   |   N/A    |  180   | 06/13/23 23:59 |         "         |         "         | 06/16 20:09 |
+|  3668  |    MC    |  45   |   5579   |  180   | 06/16/23 00:01 |    06/16 01:40    |    06/16 02:05    | 06/16 20:06 |
+| 13917  |   ADCP   | 47.5  |   N/A    |  600   | 06/15/23 23:59 | {numref}`table-9` | {numref}`table-9` | 06/16 21:23 |
+|  3619  |    MC    |  50   |   N/A    |  180   | 06/13/23 23:59 |         "         |         "         | 06/16 21:24 |
+|  3620  |    MC    |  55   |   N/A    |  180   | 06/13/23 23:59 |         "         |         "         | 06/16 21:27 |
+|  3621  |    MC    |  65   |   N/A    |  180   | 06/13/23 23:59 |         "         |         "         | 06/16 21:29 |
+|  9988  |    MC    |  75   |   N/A    |  180   | 06/13/23 23:59 |         "         |         "         | 06/16 21:31 |
+|  4699  |    MC    |  85   |  10209   |  240   | 06/13/23 23:59 |         "         |         "         | 06/16 21:32 |
+|  3791  |    MC    |  95   |   N/A    |  180   | 06/16/23 02:00 |    06/16 02:06    |    06/16 02:30    | 06/16 21:34 |
+|  2769  |    MC    |  105  | 12364705 |  240   | 06/13/23 23:59 |         "         |         "         | 06/16 21:36 |
+| 25352  |   MC-N   |  120  | 5983494  |  240   | 06/13/23 23:59 |         "         |         "         | 06/16 21:47 |
+|  7637  |   ADCP   |  125  |   N/A    |  300   | 06/15/23 23:59 | {numref}`table-9` | {numref}`table-9` | 06/16 21:47 |
+| 25444  |   MC-N   |  135  | 12152941 |  240   | 06/13/23 23:59 |         "         |         "         | 06/16 21:49 |
+|  4701  |    MC    |  155  |  10211   |  240   | 06/13/23 23:59 |         "         |         "         | 06/16 21:51 |
+| 11381  |    MC    | +39 m | 2146836  |  300   | 06/16/23 00:01 |         "         |         "         | 06/17 00:02 |
+| 11380  |    MC    | +39 m | 2146835  |  300   | 06/16/23 00:01 |         "         |         "         | 06/17 00:02 |
 
-```{raw} latex
-\end{landscape}
 ```
 
 ```{table} WHOTS-19 mooring recovery summary for C-T (Conductivity-Temperature) and ADCP (Acoustic Doppler Current Profiler) instruments. All times in UTC (MM/DD/YY hh:mm:ss). SN = Serial Number, Tlg = Logging, Spk = Spike, Q = Quality.
@@ -221,7 +213,7 @@ recognizable signal spike ({numref}`table-9`, {numref}`table-10`).
 
 The 300 kHz ADCP at 125 m (SN 7637) operated flawlessly for the entire
 deployment and was still recording on recovery. In contrast, the 600 kHz ADCP
-at 47.5 m (SN 13917) stopped logging on 25 March 2024. Data collected are 
+at 47.5 m (SN 13917) stopped logging on 25 March 2024. Data collected are
 good, aside from near-surface side-lobe interference.
 
 The RDI 300 kHz Workhorse Sentinel ADCP, SN 7637, was installed at 125 m with
